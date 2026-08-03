@@ -44,15 +44,22 @@
                         <p class="text-xs text-slate-500 font-medium">DBE Direct Download Portal</p>
                     </div>
                 </div>
-                <!-- Top badging -->
-                <div class="hidden sm:flex items-center space-x-4">
-                    <span class="inline-flex items-center rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-700 ring-1 ring-inset ring-emerald-600/20">
-                        <span class="h-1.5 w-1.5 rounded-full bg-emerald-500 mr-1.5 animate-pulse"></span>
-                        DBE Servers Online
-                    </span>
-                    <span class="inline-flex items-center rounded-full bg-blue-50 px-2.5 py-1 text-xs font-semibold text-blue-700 ring-1 ring-inset ring-blue-600/20">
-                        Grade 12 (NSC)
-                    </span>
+                <!-- Right actions: badging + hamburger -->
+                <div class="flex items-center space-x-4">
+                    <div class="hidden sm:flex items-center space-x-4">
+                        <span class="inline-flex items-center rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-700 ring-1 ring-inset ring-emerald-600/20">
+                            <span class="h-1.5 w-1.5 rounded-full bg-emerald-500 mr-1.5 animate-pulse"></span>
+                            DBE Servers Online
+                        </span>
+                        <span class="inline-flex items-center rounded-full bg-blue-50 px-2.5 py-1 text-xs font-semibold text-blue-700 ring-1 ring-inset ring-blue-600/20">
+                            Grade 12 (NSC)
+                        </span>
+                    </div>
+
+                    <!-- Hamburger Menu Button -->
+                    <button id="btn-hamburger" class="p-2 rounded-lg text-slate-600 hover:text-slate-900 hover:bg-slate-100 transition focus:outline-none focus:ring-2 focus:ring-orange-500/20" aria-label="Open Menu">
+                        <i class="fa-solid fa-bars text-xl"></i>
+                    </button>
                 </div>
             </div>
         </div>
@@ -381,43 +388,6 @@
                     </div>
                 </div>
 
-                <!-- Informational Study Tips Section -->
-                <div class="bg-slate-100/50 border border-slate-200/80 rounded-xl p-6 sm:p-8">
-                    <h3 class="font-extrabold text-slate-900 text-base mb-4 flex items-center gap-2">
-                        <i class="fa-regular fa-lightbulb text-amber-500 text-lg"></i>
-                        How to Prepare Effectively Using Technical Subject Past Papers
-                    </h3>
-                    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-                        <div class="bg-white p-5 rounded-lg border border-slate-200/60 shadow-sm flex flex-col justify-between">
-                            <div>
-                                <div class="w-8 h-8 rounded-full bg-orange-100 text-orange-600 flex items-center justify-center font-bold text-sm mb-3">1</div>
-                                <h4 class="font-bold text-slate-800 text-sm mb-1.5">Familiarize with Format</h4>
-                                <p class="text-slate-500 text-xs leading-relaxed">
-                                    Technical papers often contain multiple sections or specialized drawings. Familiarize yourself with the layout and structure before the actual test.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="bg-white p-5 rounded-lg border border-slate-200/60 shadow-sm flex flex-col justify-between">
-                            <div>
-                                <div class="w-8 h-8 rounded-full bg-violet-100 text-violet-600 flex items-center justify-center font-bold text-sm mb-3">2</div>
-                                <h4 class="font-bold text-slate-800 text-sm mb-1.5">Study Official Memorandums</h4>
-                                <p class="text-slate-500 text-xs leading-relaxed">
-                                    Use the marking guidelines (Memorandums) to self-assess your mock answers. Pay close attention to steps required in calculations and drawing keys.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="bg-white p-5 rounded-lg border border-slate-200/60 shadow-sm flex flex-col justify-between">
-                            <div>
-                                <div class="w-8 h-8 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center font-bold text-sm mb-3">3</div>
-                                <h4 class="font-bold text-slate-800 text-sm mb-1.5">Target Repeated Topics</h4>
-                                <p class="text-slate-500 text-xs leading-relaxed">
-                                    Look for questions that appear consistently every year. Ensure you have fully mastered these core concepts and their application.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </div>
     </main>
@@ -443,6 +413,19 @@
                     <a href="#" class="hover:text-white transition">Privacy Statement</a>
                 </div>
             </div>
+
+            <!-- Created by section & Contact info -->
+            <div class="py-6 border-b border-slate-800/60 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs">
+                <div class="flex items-center space-x-2 text-slate-300">
+                    <span class="px-2.5 py-1 bg-slate-800 text-orange-400 font-semibold rounded-lg">Author</span>
+                    <span class="font-medium">created by Tshiamo .</span>
+                </div>
+                <div class="text-slate-400 flex items-center gap-2">
+                    <i class="fa-regular fa-envelope text-orange-400"></i>
+                    <span>email <a href="mailto:michealtshiamo1@gmail.com" class="hover:text-white transition underline decoration-orange-500/50">michealtshiamo1@gmail.com</a> for more information</span>
+                </div>
+            </div>
+
             <div class="pt-8 text-center sm:text-left flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-slate-500">
                 <p>&copy; 2026 MatricTech. Created as a utility reference tool for South African Grade 12 students.</p>
                 <p class="max-w-md text-slate-600 sm:text-right">
@@ -451,6 +434,79 @@
             </div>
         </div>
     </footer>
+
+    <!-- Slide-out Drawer Overlay & Container -->
+    <div id="drawer-overlay" class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-50 opacity-0 pointer-events-none transition-opacity duration-300"></div>
+
+    <div id="drawer" class="fixed top-0 right-0 h-full w-full max-w-md bg-white shadow-2xl z-50 transform translate-x-full transition-transform duration-300 ease-in-out flex flex-col border-l border-slate-100">
+        <!-- Drawer Header -->
+        <div class="p-6 border-b border-slate-100 flex items-center justify-between bg-slate-50">
+            <div class="flex items-center space-x-2.5">
+                <div class="p-1.5 bg-orange-600 rounded-lg text-white">
+                    <i class="fa-solid fa-lightbulb text-sm"></i>
+                </div>
+                <div>
+                    <h3 class="font-bold text-slate-900 text-base leading-none">Preparation Guide</h3>
+                    <p class="text-xs text-slate-500 mt-1">Study tips & author details</p>
+                </div>
+            </div>
+            <button id="btn-drawer-close" class="p-2 rounded-lg text-slate-400 hover:text-slate-600 hover:bg-slate-100 transition focus:outline-none" aria-label="Close Menu">
+                <i class="fa-solid fa-xmark text-lg"></i>
+            </button>
+        </div>
+
+        <!-- Drawer Content (Scrollable) -->
+        <div class="flex-grow p-6 overflow-y-auto space-y-6">
+            <h4 class="font-bold text-slate-900 text-sm uppercase tracking-wider text-slate-400 mb-2">How to Prepare Effectively</h4>
+
+            <div class="space-y-4">
+                <!-- Step 1 -->
+                <div class="bg-slate-50 p-4 rounded-xl border border-slate-100 flex gap-4">
+                    <div class="flex-shrink-0 w-8 h-8 rounded-full bg-orange-100 text-orange-600 flex items-center justify-center font-bold text-sm">1</div>
+                    <div>
+                        <h5 class="font-bold text-slate-800 text-sm mb-1">Familiarize with Format</h5>
+                        <p class="text-slate-500 text-xs leading-relaxed">
+                            Technical papers often contain multiple sections or specialized drawings. Familiarize yourself with the layout and structure before the actual test.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="bg-slate-50 p-4 rounded-xl border border-slate-100 flex gap-4">
+                    <div class="flex-shrink-0 w-8 h-8 rounded-full bg-violet-100 text-violet-600 flex items-center justify-center font-bold text-sm">2</div>
+                    <div>
+                        <h5 class="font-bold text-slate-800 text-sm mb-1">Study Official Memorandums</h5>
+                        <p class="text-slate-500 text-xs leading-relaxed">
+                            Use the marking guidelines (Memorandums) to self-assess your mock answers. Pay close attention to steps required in calculations and drawing keys.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="bg-slate-50 p-4 rounded-xl border border-slate-100 flex gap-4">
+                    <div class="flex-shrink-0 w-8 h-8 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center font-bold text-sm">3</div>
+                    <div>
+                        <h5 class="font-bold text-slate-800 text-sm mb-1">Target Repeated Topics</h5>
+                        <p class="text-slate-500 text-xs leading-relaxed">
+                            Look for questions that appear consistently every year. Ensure you have fully mastered these core concepts and their application.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Drawer Footer -->
+        <div class="p-6 border-t border-slate-100 bg-slate-50 space-y-4">
+            <div class="flex items-center space-x-2 text-slate-700">
+                <span class="px-2 py-0.5 bg-orange-100 text-orange-700 text-[11px] font-bold rounded">Author</span>
+                <span class="text-xs font-semibold">created by Tshiamo .</span>
+            </div>
+            <div class="text-[11px] text-slate-500 flex items-start gap-2">
+                <i class="fa-regular fa-envelope text-orange-500 mt-0.5"></i>
+                <span>email <a href="mailto:michealtshiamo1@gmail.com" class="hover:text-slate-700 underline font-medium">michealtshiamo1@gmail.com</a> for more information</span>
+            </div>
+        </div>
+    </div>
 
     <!-- JS Scripts -->
     <script src="app.js"></script>
