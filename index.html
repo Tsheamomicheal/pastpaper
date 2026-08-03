@@ -74,7 +74,7 @@
         </div>
 
         <!-- Metrics Row -->
-        <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 mb-8">
             <div class="bg-white p-5 rounded-xl border border-slate-200 shadow-sm flex items-center space-x-4">
                 <div class="p-3 bg-orange-50 rounded-lg text-orange-600">
                     <i class="fa-solid fa-book-bookmark text-xl sm:text-2xl"></i>
@@ -94,6 +94,15 @@
                 </div>
             </div>
             <div class="bg-white p-5 rounded-xl border border-slate-200 shadow-sm flex items-center space-x-4">
+                <div class="p-3 bg-emerald-50 rounded-lg text-emerald-600">
+                    <i class="fa-solid fa-graduation-cap text-xl sm:text-2xl"></i>
+                </div>
+                <div>
+                    <p class="text-xs font-medium text-slate-500 uppercase tracking-wider">Study Guides</p>
+                    <p id="stat-guides" class="text-xl sm:text-2xl font-bold text-slate-900">0</p>
+                </div>
+            </div>
+            <div class="bg-white p-5 rounded-xl border border-slate-200 shadow-sm flex items-center space-x-4">
                 <div class="p-3 bg-amber-50 rounded-lg text-amber-600">
                     <i class="fa-solid fa-language text-xl sm:text-2xl"></i>
                 </div>
@@ -102,8 +111,8 @@
                     <p class="text-xl sm:text-2xl font-bold text-slate-900">English & Afr</p>
                 </div>
             </div>
-            <div class="bg-white p-5 rounded-xl border border-slate-200 shadow-sm flex items-center space-x-4 col-span-2 lg:col-span-1">
-                <div class="p-3 bg-emerald-50 rounded-lg text-emerald-600">
+            <div class="bg-white p-5 rounded-xl border border-slate-200 shadow-sm flex items-center space-x-4 col-span-2 md:col-span-1">
+                <div class="p-3 bg-blue-50 rounded-lg text-blue-600">
                     <i class="fa-solid fa-shield-halved text-xl sm:text-2xl"></i>
                 </div>
                 <div>
@@ -190,6 +199,7 @@
                             <option value="QP">Question Paper</option>
                             <option value="Memo">Memorandum (Memo)</option>
                             <option value="AB">Answer Book (AB)</option>
+                            <option value="SG">Study Guide (SG)</option>
                         </select>
                     </div>
 
@@ -199,6 +209,7 @@
                         <select id="filter-year" class="w-full bg-white border border-slate-300 rounded-lg text-sm py-2 px-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-orange-500/20 focus:border-orange-500 transition-colors cursor-pointer">
                             <option value="ALL">All Years</option>
                             <option value="2023">2023</option>
+                            <option value="2022">2022 (Study Guides)</option>
                         </select>
                     </div>
                 </div>
@@ -247,6 +258,125 @@
                         <button id="btn-no-results-reset" class="mt-4 inline-flex items-center gap-2 rounded-lg bg-orange-600 px-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-orange-500 transition-colors focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2">
                             Clear Filters
                         </button>
+                    </div>
+                </div>
+
+                <!-- Showcase DBE Study Guides Panel -->
+                <div class="bg-gradient-to-br from-slate-900 to-orange-950 border border-slate-800 rounded-xl p-6 sm:p-8 text-white shadow-lg">
+                    <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
+                        <div>
+                            <span class="inline-flex items-center gap-x-1 rounded-full bg-orange-500/20 px-2.5 py-0.5 text-xs font-semibold text-orange-300 ring-1 ring-inset ring-orange-500/30">
+                                Official Publication
+                            </span>
+                            <h3 class="font-extrabold text-xl tracking-tight mt-1">DBE Self-Study Guides Grade 12</h3>
+                            <p class="text-xs text-slate-300">Excellent reference notes, practical examples, and guided problem-solving exercises.</p>
+                        </div>
+                        <div class="text-xs font-medium text-orange-200 bg-orange-950/40 border border-orange-500/20 rounded-lg px-3 py-1.5 shadow-sm self-start">
+                            <i class="fa-solid fa-book-open mr-1"></i> Technical Subjects Focus
+                        </div>
+                    </div>
+
+                    <!-- 5 Study Guide cards -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                        <!-- Card 1 -->
+                        <div class="bg-slate-950/50 hover:bg-slate-950/80 border border-slate-800 hover:border-orange-500/40 p-4 rounded-xl flex flex-col justify-between transition duration-200 group">
+                            <div>
+                                <div class="flex items-center justify-between gap-2 mb-2">
+                                    <span class="inline-flex items-center rounded-full bg-green-500/10 px-2 py-0.5 text-[10px] font-semibold text-green-400 ring-1 ring-inset ring-green-500/20">
+                                        Technical Mathematics
+                                    </span>
+                                    <span class="text-[10px] text-slate-400">PDF (2022)</span>
+                                </div>
+                                <h4 class="font-bold text-sm text-slate-100 group-hover:text-orange-400 transition-colors line-clamp-2">Algebra and Functions and Graphs</h4>
+                                <p class="text-[11px] text-slate-400 mt-1 leading-relaxed">Detailed notes, quadratic equations, and complex function plots.</p>
+                            </div>
+                            <div class="mt-4 pt-3 border-t border-slate-800/80 flex items-center justify-between">
+                                <span class="text-[10px] text-slate-500 font-medium"><i class="fa-regular fa-folder-open mr-1"></i>Part 1</span>
+                                <a href="https://www.education.gov.za/LinkClick.aspx?fileticket=JBBsV9UC4rk=&tabid=728&portalid=0&mid=10046&forcedownload=true" class="text-xs font-bold text-orange-500 hover:text-orange-400 flex items-center gap-1 transition-colors">
+                                    <span>Download</span> <i class="fa-solid fa-circle-down group-hover:translate-y-0.5 transition-transform"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                        <!-- Card 2 -->
+                        <div class="bg-slate-950/50 hover:bg-slate-950/80 border border-slate-800 hover:border-orange-500/40 p-4 rounded-xl flex flex-col justify-between transition duration-200 group">
+                            <div>
+                                <div class="flex items-center justify-between gap-2 mb-2">
+                                    <span class="inline-flex items-center rounded-full bg-green-500/10 px-2 py-0.5 text-[10px] font-semibold text-green-400 ring-1 ring-inset ring-green-500/20">
+                                        Technical Mathematics
+                                    </span>
+                                    <span class="text-[10px] text-slate-400">PDF (2022)</span>
+                                </div>
+                                <h4 class="font-bold text-sm text-slate-100 group-hover:text-orange-400 transition-colors line-clamp-2">Differential Calculus and Integration</h4>
+                                <p class="text-[11px] text-slate-400 mt-1 leading-relaxed">Calculus basics, rules of differentiation, and integration bounds.</p>
+                            </div>
+                            <div class="mt-4 pt-3 border-t border-slate-800/80 flex items-center justify-between">
+                                <span class="text-[10px] text-slate-500 font-medium"><i class="fa-regular fa-folder-open mr-1"></i>Part 2</span>
+                                <a href="https://www.education.gov.za/LinkClick.aspx?fileticket=5kCYpt-bOsc=&tabid=728&portalid=0&mid=10046&forcedownload=true" class="text-xs font-bold text-orange-500 hover:text-orange-400 flex items-center gap-1 transition-colors">
+                                    <span>Download</span> <i class="fa-solid fa-circle-down group-hover:translate-y-0.5 transition-transform"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                        <!-- Card 3 -->
+                        <div class="bg-slate-950/50 hover:bg-slate-950/80 border border-slate-800 hover:border-orange-500/40 p-4 rounded-xl flex flex-col justify-between transition duration-200 group">
+                            <div>
+                                <div class="flex items-center justify-between gap-2 mb-2">
+                                    <span class="inline-flex items-center rounded-full bg-green-500/10 px-2 py-0.5 text-[10px] font-semibold text-green-400 ring-1 ring-inset ring-green-500/20">
+                                        Technical Mathematics
+                                    </span>
+                                    <span class="text-[10px] text-slate-400">PDF (2022)</span>
+                                </div>
+                                <h4 class="font-bold text-sm text-slate-100 group-hover:text-orange-400 transition-colors line-clamp-2">Trigonometry and Euclidean Geometry</h4>
+                                <p class="text-[11px] text-slate-400 mt-1 leading-relaxed">Identity transformations, circle geometry, and theorem proofs.</p>
+                            </div>
+                            <div class="mt-4 pt-3 border-t border-slate-800/80 flex items-center justify-between">
+                                <span class="text-[10px] text-slate-500 font-medium"><i class="fa-regular fa-folder-open mr-1"></i>Part 3</span>
+                                <a href="https://www.education.gov.za/LinkClick.aspx?fileticket=bTo1AX4RlWw=&tabid=728&portalid=0&mid=10046&forcedownload=true" class="text-xs font-bold text-orange-500 hover:text-orange-400 flex items-center gap-1 transition-colors">
+                                    <span>Download</span> <i class="fa-solid fa-circle-down group-hover:translate-y-0.5 transition-transform"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                        <!-- Card 4 -->
+                        <div class="bg-slate-950/50 hover:bg-slate-950/80 border border-slate-800 hover:border-orange-500/40 p-4 rounded-xl flex flex-col justify-between transition duration-200 group">
+                            <div>
+                                <div class="flex items-center justify-between gap-2 mb-2">
+                                    <span class="inline-flex items-center rounded-full bg-violet-500/10 px-2 py-0.5 text-[10px] font-semibold text-violet-400 ring-1 ring-inset ring-violet-500/20">
+                                        Technical Sciences
+                                    </span>
+                                    <span class="text-[10px] text-slate-400">PDF (2022)</span>
+                                </div>
+                                <h4 class="font-bold text-sm text-slate-100 group-hover:text-orange-400 transition-colors line-clamp-2">Knowledge Area Mechanics</h4>
+                                <p class="text-[11px] text-slate-400 mt-1 leading-relaxed">Newton's laws of motion, momentum, work, energy, and power.</p>
+                            </div>
+                            <div class="mt-4 pt-3 border-t border-slate-800/80 flex items-center justify-between">
+                                <span class="text-[10px] text-slate-500 font-medium"><i class="fa-regular fa-folder-open mr-1"></i>Part 1</span>
+                                <a href="https://www.education.gov.za/LinkClick.aspx?fileticket=7yMS7n3mD18=&tabid=728&portalid=0&mid=10046&forcedownload=true" class="text-xs font-bold text-orange-500 hover:text-orange-400 flex items-center gap-1 transition-colors">
+                                    <span>Download</span> <i class="fa-solid fa-circle-down group-hover:translate-y-0.5 transition-transform"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                        <!-- Card 5 -->
+                        <div class="bg-slate-950/50 hover:bg-slate-950/80 border border-slate-800 hover:border-orange-500/40 p-4 rounded-xl flex flex-col justify-between transition duration-200 group">
+                            <div>
+                                <div class="flex items-center justify-between gap-2 mb-2">
+                                    <span class="inline-flex items-center rounded-full bg-violet-500/10 px-2 py-0.5 text-[10px] font-semibold text-violet-400 ring-1 ring-inset ring-violet-500/20">
+                                        Technical Sciences
+                                    </span>
+                                    <span class="text-[10px] text-slate-400">PDF (2022)</span>
+                                </div>
+                                <h4 class="font-bold text-sm text-slate-100 group-hover:text-orange-400 transition-colors line-clamp-2">Organic Molecules</h4>
+                                <p class="text-[11px] text-slate-400 mt-1 leading-relaxed">Nomenclature of compounds, physical properties, and organic chemical reactions.</p>
+                            </div>
+                            <div class="mt-4 pt-3 border-t border-slate-800/80 flex items-center justify-between">
+                                <span class="text-[10px] text-slate-500 font-medium"><i class="fa-regular fa-folder-open mr-1"></i>Part 2</span>
+                                <a href="https://www.education.gov.za/LinkClick.aspx?fileticket=4mk8x299TEo=&tabid=728&portalid=0&mid=10046&forcedownload=true" class="text-xs font-bold text-orange-500 hover:text-orange-400 flex items-center gap-1 transition-colors">
+                                    <span>Download</span> <i class="fa-solid fa-circle-down group-hover:translate-y-0.5 transition-transform"></i>
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
 

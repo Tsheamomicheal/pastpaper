@@ -597,6 +597,58 @@ const papersDataset = [
         language: "Afrikaans",
         year: "2023",
         url: "https://www.education.gov.za/LinkClick.aspx?fileticket=yFcz8oaW7lI=&tabid=4682&portalid=0&mid=12673&forcedownload=true"
+    },
+
+    // === OFFICIAL DBE SELF-STUDY GUIDES (2022) ===
+    {
+        id: "tmath-sg1",
+        subject: "Technical Mathematics",
+        specialization: "None",
+        title: "Self-Study Guide: Algebra and Functions and Graphs",
+        type: "SG",
+        language: "English",
+        year: "2022",
+        url: "https://www.education.gov.za/LinkClick.aspx?fileticket=JBBsV9UC4rk=&tabid=728&portalid=0&mid=10046&forcedownload=true"
+    },
+    {
+        id: "tmath-sg2",
+        subject: "Technical Mathematics",
+        specialization: "None",
+        title: "Self-Study Guide: Differential Calculus and Integration",
+        type: "SG",
+        language: "English",
+        year: "2022",
+        url: "https://www.education.gov.za/LinkClick.aspx?fileticket=5kCYpt-bOsc=&tabid=728&portalid=0&mid=10046&forcedownload=true"
+    },
+    {
+        id: "tmath-sg3",
+        subject: "Technical Mathematics",
+        specialization: "None",
+        title: "Self-Study Guide: Trigonometry and Euclidean Geometry",
+        type: "SG",
+        language: "English",
+        year: "2022",
+        url: "https://www.education.gov.za/LinkClick.aspx?fileticket=bTo1AX4RlWw=&tabid=728&portalid=0&mid=10046&forcedownload=true"
+    },
+    {
+        id: "tsci-sg1",
+        subject: "Technical Sciences",
+        specialization: "None",
+        title: "Self-Study Guide: Knowledge Area Mechanics",
+        type: "SG",
+        language: "English",
+        year: "2022",
+        url: "https://www.education.gov.za/LinkClick.aspx?fileticket=7yMS7n3mD18=&tabid=728&portalid=0&mid=10046&forcedownload=true"
+    },
+    {
+        id: "tsci-sg2",
+        subject: "Technical Sciences",
+        specialization: "None",
+        title: "Self-Study Guide: Organic Molecules",
+        type: "SG",
+        language: "English",
+        year: "2022",
+        url: "https://www.education.gov.za/LinkClick.aspx?fileticket=4mk8x299TEo=&tabid=728&portalid=0&mid=10046&forcedownload=true"
     }
 ];
 
@@ -622,11 +674,17 @@ const papersTbody = document.getElementById("papers-tbody");
 const noResultsDiv = document.getElementById("no-results");
 const resultCountEl = document.getElementById("result-count");
 const statFilesEl = document.getElementById("stat-files");
+const statGuidesEl = document.getElementById("stat-guides");
 
 // Initialize application
 function init() {
-    // Set total curated files stat dynamically
-    statFilesEl.textContent = papersDataset.length;
+    // Count exam papers (type !== "SG") and study guides (type === "SG") separately
+    const papersCount = papersDataset.filter(paper => paper.type !== "SG").length;
+    const guidesCount = papersDataset.filter(paper => paper.type === "SG").length;
+
+    // Set total curated files and study guides stats dynamically
+    if (statFilesEl) statFilesEl.textContent = papersCount;
+    if (statGuidesEl) statGuidesEl.textContent = guidesCount;
 
     // Event Listeners for inputs
     searchInput.addEventListener("input", filterAndRender);
@@ -775,12 +833,20 @@ function filterAndRender() {
             } else if (paper.type === "AB") {
                 typeBadgeClass = "bg-fuchsia-100 text-fuchsia-800";
                 typeFullName = "Answer Book";
+            } else if (paper.type === "SG") {
+                typeBadgeClass = "bg-emerald-100 text-emerald-800";
+                typeFullName = "Study Guide";
             }
 
             // Construct specialization markup
             const specMarkup = paper.specialization && paper.specialization !== "None"
                 ? `<span class="block text-[11px] font-medium text-slate-500 italic mt-0.5">${paper.specialization}</span>`
                 : "";
+
+            // Custom metadata details depending on whether it is a study guide or exam paper
+            const detailsMarkup = paper.type === "SG"
+                ? `<i class="fa-regular fa-bookmark"></i> Official Study Guide Resource`
+                : `<i class="fa-regular fa-calendar-check"></i> November ${paper.year} Examination`;
 
             tr.innerHTML = `
                 <td class="px-6 py-4 whitespace-nowrap">
@@ -792,7 +858,7 @@ function filterAndRender() {
                 <td class="px-6 py-4">
                     <div class="text-sm font-semibold text-slate-900">${paper.title}</div>
                     <div class="text-[11px] text-slate-400 font-medium flex items-center gap-1 mt-0.5">
-                        <i class="fa-regular fa-calendar-check"></i> November ${paper.year} Examination
+                        ${detailsMarkup}
                     </div>
                 </td>
                 <td class="px-6 py-4 whitespace-nowrap text-xs font-medium space-x-2">
