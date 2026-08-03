@@ -882,5 +882,34 @@ function filterAndRender() {
     }
 }
 
+// Drawer Toggle logic
+function setupDrawer() {
+    const btnHamburger = document.getElementById("btn-hamburger");
+    const btnDrawerClose = document.getElementById("btn-drawer-close");
+    const drawerOverlay = document.getElementById("drawer-overlay");
+    const drawer = document.getElementById("drawer");
+
+    function openDrawer() {
+        drawerOverlay.classList.remove("pointer-events-none");
+        drawerOverlay.classList.add("opacity-100");
+        drawerOverlay.classList.remove("opacity-0");
+        drawer.classList.remove("translate-x-full");
+    }
+
+    function closeDrawer() {
+        drawerOverlay.classList.add("pointer-events-none");
+        drawerOverlay.classList.remove("opacity-100");
+        drawerOverlay.classList.add("opacity-0");
+        drawer.classList.add("translate-x-full");
+    }
+
+    if (btnHamburger) btnHamburger.addEventListener("click", openDrawer);
+    if (btnDrawerClose) btnDrawerClose.addEventListener("click", closeDrawer);
+    if (drawerOverlay) drawerOverlay.addEventListener("click", closeDrawer);
+}
+
 // Start everything up
-document.addEventListener("DOMContentLoaded", init);
+document.addEventListener("DOMContentLoaded", () => {
+    init();
+    setupDrawer();
+});
