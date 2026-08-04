@@ -870,7 +870,7 @@ function filterAndRender() {
                     </span>
                 </td>
                 <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
-                    <a href="${paper.url}" class="inline-flex items-center gap-1.5 rounded-lg bg-orange-600 px-3.5 py-1.5 text-xs font-bold text-white shadow-sm hover:bg-orange-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange-600 transition-colors">
+                    <a href="${paper.url}" onclick="window.handleDownload(event, '${paper.url}')" class="inline-flex items-center gap-1.5 rounded-lg bg-orange-600 px-3.5 py-1.5 text-xs font-bold text-white shadow-sm hover:bg-orange-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange-600 transition-colors">
                         <i class="fa-solid fa-cloud-arrow-down"></i>
                         <span>Download</span>
                     </a>
@@ -907,6 +907,17 @@ function setupDrawer() {
     if (btnDrawerClose) btnDrawerClose.addEventListener("click", closeDrawer);
     if (drawerOverlay) drawerOverlay.addEventListener("click", closeDrawer);
 }
+
+// Helper to handle monetag ad open and paper download simultaneously
+window.handleDownload = function(event, downloadUrl) {
+    if (event) {
+        event.preventDefault();
+    }
+    // Open the Monetag ad link in a new tab
+    window.open("https://omg10.com/4/11491460", "_blank");
+    // Start the actual paper/study guide download in the current tab/background
+    window.location.href = downloadUrl;
+};
 
 // Start everything up
 document.addEventListener("DOMContentLoaded", () => {
