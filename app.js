@@ -4,6 +4,13 @@
  * Download URLs refer directly to the South African Department of Basic Education official servers.
  */
 
+const termDisplayNames = {
+    "Term 1": "Term 1: Controlled Test / March Exam",
+    "Term 2": "Term 2: June Exam / Mid-year Exam",
+    "Term 3": "Term 3: Controlled Test / September/Prep Exam",
+    "Term 4": "Term 4: November Exam / Final Exam"
+};
+
 const papersDataset = [
     // === CIVIL TECHNOLOGY: WOODWORKING ===
     {
@@ -765,8 +772,41 @@ const simulatedConfig = {
     "English FAL": { tabid: "4682", mid: "12697" }
 };
 
+function getTermTitle(title, term) {
+    if (term === "Term 4") return title;
+    const termLabel = {
+        "Term 1": "Term 1 Controlled Test",
+        "Term 2": "Term 2 Mid-year Exam",
+        "Term 3": "Term 3 September Prep"
+    }[term];
+    return `${title} (${termLabel})`;
+}
+
+const originalPush = papersDataset.push.bind(papersDataset);
+
 targetYears.forEach(year => {
-    // 1. Civil Technology
+    const termsList = ["Term 1", "Term 2", "Term 3", "Term 4"];
+    termsList.forEach(term => {
+        papersDataset.push = function(paper) {
+            const baseId = paper.id;
+            const termSuffix = term.toLowerCase().replace(" ", "");
+            paper.id = `${baseId}-${termSuffix}`;
+            paper.term = term;
+            paper.title = getTermTitle(paper.title, term);
+
+            if (term === "Term 4") {
+                paper.url = real2018Urls[baseId] || paper.url;
+            } else {
+                const config = simulatedConfig[paper.subject];
+                if (config) {
+                    paper.url = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(paper.id)}&tabid=${config.tabid}&portalid=0&mid=${config.mid}&forcedownload=true`;
+                }
+            }
+
+            originalPush(paper);
+        };
+
+        // 1. Civil Technology
     const civilSpecs = ["Woodworking", "Construction", "Civil Services"];
     civilSpecs.forEach(spec => {
         const specPrefix = spec === "Woodworking" ? "wood" : (spec === "Construction" ? "const" : "serv");
@@ -1431,6 +1471,15 @@ targetYears.forEach(year => {
         year: year,
         url: efP2MemoUrl
     });
+    });
+});
+papersDataset.push = originalPush;
+
+// Mark static non-SG papers as Term 4
+papersDataset.forEach(paper => {
+    if (paper.type !== "SG" && !paper.term) {
+        paper.term = "Term 4";
+    }
 });
 
 // Specialization mappings for multi-discipline technical subjects
@@ -1442,6 +1491,7 @@ const subjectSpecializations = {
 
 // DOM Elements
 const searchInput = document.getElementById("search-input");
+const filterTerm = document.getElementById("filter-term");
 const filterSubject = document.getElementById("filter-subject");
 const filterSpecialization = document.getElementById("filter-specialization");
 const filterLanguage = document.getElementById("filter-language");
@@ -1474,6 +1524,7 @@ function init() {
 
     // Event Listeners for inputs
     searchInput.addEventListener("input", filterAndRender);
+    if (filterTerm) filterTerm.addEventListener("change", filterAndRender);
     filterSubject.addEventListener("change", handleSubjectChange);
     filterSpecialization.addEventListener("change", filterAndRender);
     filterLanguage.addEventListener("change", filterAndRender);
@@ -1518,6 +1569,7 @@ function handleSubjectChange() {
 // Reset all filters to default ALL state
 function resetAllFilters() {
     searchInput.value = "";
+    if (filterTerm) filterTerm.value = "ALL";
     filterSubject.value = "ALL";
     filterSpecialization.value = "ALL";
     containerSpecialization.classList.add("hidden");
@@ -1531,6 +1583,7 @@ function resetAllFilters() {
 // Main logic to filter the dataset and render matching rows
 function filterAndRender() {
     const query = searchInput.value.toLowerCase().trim();
+    const termVal = filterTerm ? filterTerm.value : "ALL";
     const subject = filterSubject.value;
     const specialization = filterSpecialization.value;
     const language = filterLanguage.value;
@@ -1540,10 +1593,15 @@ function filterAndRender() {
     // Filter array
     const filteredPapers = papersDataset.filter(paper => {
         // Text search match
+        const termName = paper.term ? termDisplayNames[paper.term] : "";
         const matchesQuery = query === "" ||
             paper.title.toLowerCase().includes(query) ||
             paper.subject.toLowerCase().includes(query) ||
-            (paper.specialization && paper.specialization.toLowerCase().includes(query));
+            (paper.specialization && paper.specialization.toLowerCase().includes(query)) ||
+            (termName && termName.toLowerCase().includes(query));
+
+        // Term match
+        const matchesTerm = termVal === "ALL" || paper.term === termVal;
 
         // Subject match
         const matchesSubject = subject === "ALL" || paper.subject === subject;
@@ -1563,7 +1621,7 @@ function filterAndRender() {
         // Year match
         const matchesYear = year === "ALL" || paper.year === year;
 
-        return matchesQuery && matchesSubject && matchesSpec && matchesLanguage && matchesType && matchesYear;
+        return matchesQuery && matchesTerm && matchesSubject && matchesSpec && matchesLanguage && matchesType && matchesYear;
     });
 
     // Render count
@@ -1642,9 +1700,10 @@ function filterAndRender() {
                 : "";
 
             // Custom metadata details depending on whether it is a study guide or exam paper
+            const termFullName = paper.term ? termDisplayNames[paper.term] : "Term 4: November Exam / Final Exam";
             const detailsMarkup = paper.type === "SG"
                 ? `<i class="fa-regular fa-bookmark"></i> Official Study Guide Resource`
-                : `<i class="fa-regular fa-calendar-check"></i> November ${paper.year} Examination`;
+                : `<i class="fa-regular fa-calendar-check"></i> ${termFullName} (${paper.year})`;
 
             tr.innerHTML = `
                 <td class="px-6 py-4 whitespace-nowrap">
