@@ -1,0 +1,156 @@
+[
+    {
+        "id": "mathematics-ab-english-2019-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 Answerbook (English & Afrikaans)",
+        "type": "AB",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mathematics%20P2%20Nov%202019%20Answer%20Book%20Eng%20%26%20Afr.pdf"
+    },
+    {
+        "id": "mathematics-qp-english-2019-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2019%20November%20past%20papers/Non-Languages%20Nov%202019%20PDF/Mathematics/P2/Mathematics%20P2%20Nov%202019%20Eng.pdf?ver=2020-01-29-125852-000"
+    },
+    {
+        "id": "mathematics-qp-afrikaans-2019-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2019",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2019%20November%20past%20papers/Non-Languages%20Nov%202019%20PDF/Mathematics/P2/Mathematics%20P2%20Nov%202019%20Afr.pdf?ver=2020-01-29-125724-000"
+    },
+    {
+        "id": "mathematics-qp-english-2019-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2019%20November%20past%20papers/Non-Languages%20Nov%202019%20PDF/Mathematics/P1/Mathematics%20P1%20Nov%202019%20Eng.pdf?ver=2020-01-29-125632-000"
+    },
+    {
+        "id": "mathematics-qp-afrikaans-2019-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2019",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2019%20November%20past%20papers/Non-Languages%20Nov%202019%20PDF/Mathematics/P1/Mathematics%20P1%20Nov%202019%20Afr.pdf?ver=2020-01-29-125552-000"
+    },
+    {
+        "id": "mathematics-memo-english-2019-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Memo 2",
+        "type": "Memo",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mathematics%20P2%20Nov%202019%20Memo%20Afr%20%26%20Eng.pdf"
+    },
+    {
+        "id": "mathematics-memo-english-2019-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Memo 1",
+        "type": "Memo",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mathematics%20P1%20Nov%202019%20Memo%20Afr%20%26%20Eng.pdf"
+    },
+    {
+        "id": "mathematics-ab-english-2019-term2",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 Answerbook (English & Afrikaans)",
+        "type": "AB",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mathematics%20P2%20May-June%202019%20Answer%20Book%20Afr%20%26%20Eng.docx"
+    },
+    {
+        "id": "mathematics-qp-english-2019-term2",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=zd9wx0AX4oo%3D"
+    },
+    {
+        "id": "mathematics-qp-afrikaans-2019-term2",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2019",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=-cpYT3uDhPY%3D"
+    },
+    {
+        "id": "mathematics-qp-english-2019-term2",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=wX9QfOui0vc%3D"
+    },
+    {
+        "id": "mathematics-qp-afrikaans-2019-term2",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2019",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=A-ue3iAQD9o%3D"
+    },
+    {
+        "id": "mathematics-memo-english-2019-term2",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Memo 2 (Afrikaans & English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mathematics%20P2%20May-June%202019%20Memo%20Afr%20%26%20Eng.pdf"
+    },
+    {
+        "id": "mathematics-memo-english-2019-term2",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans and English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mathematics%20P1%20May-June%202019%20Memo%20Afr%20%26%20Eng.pdf"
+    }
+]

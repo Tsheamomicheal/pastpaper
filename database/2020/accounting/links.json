@@ -1,0 +1,200 @@
+[
+    {
+        "id": "accounting-memo-afrikaans-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=BzqjA-Iyr8o%3D"
+    },
+    {
+        "id": "accounting-memo-english-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=-tdVxnDhfXY%3D"
+    },
+    {
+        "id": "accounting-memo-afrikaans-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 2 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Accounting%20NSC/Accounting%20P2%20Nov%202020%20Memo%20Afr%20(2).pdf?ver=2021-03-10-122842-000"
+    },
+    {
+        "id": "accounting-memo-english-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 2 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=d4FYbddi3U8%3D"
+    },
+    {
+        "id": "accounting-qp-afrikaans-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=7gbvbxa3i1E%3D"
+    },
+    {
+        "id": "accounting-qp-english-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Accounting%20NSC%20(2)/P1/Accounting%20P1%20NSC%20Nov%202020%20Eng%20(2).pdf?ver=2020-12-04-124743-000"
+    },
+    {
+        "id": "accounting-ab-afrikaans-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 Answer Book (Afrikaans)",
+        "type": "AB",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Accounting%20NSC%20(2)/P1/Accounting%20P1%20NSC%20Nov%202020%20Answer%20Book%20Afr%20(2).pdf?ver=2020-12-04-124550-000"
+    },
+    {
+        "id": "accounting-ab-english-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 Answer Book (English)",
+        "type": "AB",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Q36p4nWJ3rI%3D"
+    },
+    {
+        "id": "accounting-qp-afrikaans-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=HIp_HsfpkuA%3D"
+    },
+    {
+        "id": "accounting-qp-english-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Accounting%20NSC%20(2)/P2/Accounting%20P2%20NSC%20Nov%202020%20Eng%20(2).pdf?ver=2020-12-07-144210-000"
+    },
+    {
+        "id": "accounting-ab-afrikaans-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 2 Answerbook (Afrikaans)",
+        "type": "AB",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Accounting%20NSC%20(2)/P2/Accounting%20P2%20NSC%20Nov%202020%20Answer%20Book%20Afr%20(2).pdf?ver=2020-12-07-144144-000"
+    },
+    {
+        "id": "accounting-ab-english-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 2 Answerbook (English)",
+        "type": "AB",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=zn46fGVSilQ%3D"
+    },
+    {
+        "id": "accounting-qp-english-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=T328oA3GD1Q%3D"
+    },
+    {
+        "id": "accounting-qp-afrikaans-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Accounting%20SC/Accounting%20SC%20Nov%202020%20Afr.pdf?ver=2020-12-04-130816-000"
+    },
+    {
+        "id": "accounting-memo-english-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Accounting%20SC/Accounting%20Nov%202020%20Memo%20Eng.pdf?ver=2021-03-10-123858-000"
+    },
+    {
+        "id": "accounting-memo-afrikaans-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=1HKNHyG48N8%3D"
+    },
+    {
+        "id": "accounting-ab-english-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Answerbook (English)",
+        "type": "AB",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=W835EQ5pyBk%3D"
+    },
+    {
+        "id": "accounting-ab-afrikaans-2020-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Answerbook (Afrikaans)",
+        "type": "AB",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Accounting%20SC/Accounting%20SC%20Nov%202020%20Answer%20Book%20Afr.pdf?ver=2020-12-04-130909-000"
+    }
+]

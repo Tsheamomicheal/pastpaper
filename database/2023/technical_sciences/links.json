@@ -1,0 +1,200 @@
+[
+    {
+        "id": "technical_sciences-qp-english-2023-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=0Hd7EOFELxg%3D"
+    },
+    {
+        "id": "technical_sciences-qp-afrikaans-2023-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=DexYaFm0zS4%3D"
+    },
+    {
+        "id": "technical_sciences-qp-english-2023-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2023%20NovPapers/Non-Languages%20November%202023%20PDF/Technical%20Sciences/Technical%20Sciences%20P1%20Nov%202023%20Eng.pdf?ver=2023-11-10-131639-000"
+    },
+    {
+        "id": "technical_sciences-qp-afrikaans-2023-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2023%20NovPapers/Non-Languages%20November%202023%20PDF/Technical%20Sciences/Technical%20Sciences%20P1%20Nov%202023%20Afr.pdf?ver=2023-11-10-131452-000"
+    },
+    {
+        "id": "technical_sciences-memo-english-2023-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Memo 2 (English and Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Technical%20Sciences%20P2%20Nov%202023%20MG%20Eng%20%26%20Afr.pdf"
+    },
+    {
+        "id": "technical_sciences-memo-english-2023-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Memo 1 (English and Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Technical%20Sciences%20P1%20Nov%202023%20MG%20Eng%20%26%20Afr.pdf"
+    },
+    {
+        "id": "technical_sciences-qp-english-2023-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2023MayJune%20Exam%20Papers/Non-Languages%20May-June%202023%20PDF/Technical%20Sciences/Technical%20Sciences%20P2%20May-June%202023%20Eng.pdf?ver=2023-05-16-073403-000"
+    },
+    {
+        "id": "technical_sciences-qp-afrikaans-2023-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2023",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2023MayJune%20Exam%20Papers/Non-Languages%20May-June%202023%20PDF/Technical%20Sciences/Technical%20Sciences%20P2%20May-June%202023%20Afr.pdf?ver=2023-05-16-073254-000"
+    },
+    {
+        "id": "technical_sciences-qp-english-2023-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2023MayJune%20Exam%20Papers/Non-Languages%20May-June%202023%20PDF/Technical%20Sciences/Technical%20Sciences%20P1%20May-June%202023%20Eng.pdf?ver=2023-05-12-133141-000"
+    },
+    {
+        "id": "technical_sciences-qp-afrikaans-2023-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2023",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=wc1f5OXAuK0%3D"
+    },
+    {
+        "id": "technical_sciences-memo-english-2023-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Memo 2 (English and Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Technical%20Sciences%20P2%20May-June%202023%20MG%20Afr%20%26%20Eng.pdf"
+    },
+    {
+        "id": "technical_sciences-memo-english-2023-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Memo 1 (English and Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=uftYDO5mSi8%3D"
+    },
+    {
+        "id": "technical_sciences-sg-2023-7yms7n",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Self-Study Guide: Technical Sciences: Knowledge Area Mechanics",
+        "type": "SG",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=7yMS7n3mD18%3D"
+    },
+    {
+        "id": "technical_sciences-sg-2023-4mk8x2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Self-Study Guide: Technical Sciences: Organic Molecules",
+        "type": "SG",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4mk8x299TEo%3D"
+    },
+    {
+        "id": "technical_sciences-sg-2023-jrfgma",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Self-Study Guide: Technical Sciences - Elasticity",
+        "type": "SG",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/Documents/Manuals/FET/DATA%20DRIVEN%20STUDY%20GUIDES/TECH%20SCIENCES/Elasticity%20Booklet.pdf?ver=2019-05-28-103234-000"
+    },
+    {
+        "id": "technical_sciences-sg-2023-ooyvd0",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Self-Study Guide: Technical Sciences - Momentum",
+        "type": "SG",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/Documents/Manuals/FET/DATA%20DRIVEN%20STUDY%20GUIDES/TECH%20SCIENCES/TECH%20SCIENCES_Momentum.pdf?ver=2019-05-16-134326-000"
+    },
+    {
+        "id": "technical_sciences-sg-2023-caqlsp",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Self-Study Guide: Technical Sciences - Newtons Law",
+        "type": "SG",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/Documents/Manuals/FET/DATA%20DRIVEN%20STUDY%20GUIDES/TECH%20SCIENCES/TECH%20SCIENCE_Newtons%20Laws.pdf?ver=2019-05-16-134326-000"
+    },
+    {
+        "id": "technical_sciences-sg-2023-n7hhl0",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Self-Study Guide: Technical Sciences - Work, Energy and Power",
+        "type": "SG",
+        "language": "English",
+        "year": "2023",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Technical%20Sciences%20-%20Work%2C%20Energy%20and%20Power.pdf"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "id": "mechanical_technology-qp-english-2017-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20November%20past%20papers/Non%20Languages/Mechanical%20Technology%20Nov%202017%20Eng.pdf?ver=2017-11-11-082807-000"
+    },
+    {
+        "id": "mechanical_technology-qp-afrikaans-2017-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=QGL5nbDYg94%3D"
+    },
+    {
+        "id": "mechanical_technology-memo-english-2017-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ljg7Ae6NVR4%3D"
+    },
+    {
+        "id": "mechanical_technology-memo-afrikaans-2017-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=NsLxnPmfz4c%3D"
+    },
+    {
+        "id": "mechanical_technology-qp-english-2017-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4RMv7Af4Q08%3D"
+    },
+    {
+        "id": "mechanical_technology-qp-afrikaans-2017-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20FebMarch%20Exam%20Papers/Mechanical%20Technology%20Feb-March%202017%20Afr.pdf?ver=2017-05-03-111506-000"
+    },
+    {
+        "id": "mechanical_technology-memo-english-2017-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20FebMarch%20Exam%20Papers/Mechanical%20Technology%20Feb-March%202017%20Memo%20Eng.pdf?ver=2017-06-22-091535-000"
+    },
+    {
+        "id": "mechanical_technology-memo-afrikaans-2017-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=id8g_2KYxfg%3D"
+    }
+]

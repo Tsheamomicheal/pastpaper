@@ -1,0 +1,46 @@
+[
+    {
+        "id": "life_sciences-qp-en-2026-term4",
+        "subject": "Life Sciences",
+        "specialization": "None",
+        "title": "Life Sciences Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2026",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2026%20NovPapers%20Exam%20Papers/Life%20Sciences%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "life_sciences-qp-af-2026-term4",
+        "subject": "Life Sciences",
+        "specialization": "None",
+        "title": "Life Sciences Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2026",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2026%20NovPapers%20Exam%20Papers/Life%20Sciences%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "life_sciences-memo-en-2026-term4",
+        "subject": "Life Sciences",
+        "specialization": "None",
+        "title": "Life Sciences Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2026",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2026%20NovPapers%20Exam%20Papers/Life%20Sciences%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "life_sciences-memo-af-2026-term4",
+        "subject": "Life Sciences",
+        "specialization": "None",
+        "title": "Life Sciences Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2026",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2026%20NovPapers%20Exam%20Papers/Life%20Sciences%20Memo%201%20(Afrikaans).pdf"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "id": "technical_mathematics-qp-en-2027-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Technical Mathematics Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2027",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2027%20NovPapers%20Exam%20Papers/Technical%20Mathematics%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "technical_mathematics-qp-af-2027-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Technical Mathematics Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2027",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2027%20NovPapers%20Exam%20Papers/Technical%20Mathematics%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "technical_mathematics-memo-en-2027-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Technical Mathematics Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2027",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2027%20NovPapers%20Exam%20Papers/Technical%20Mathematics%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "technical_mathematics-memo-af-2027-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Technical Mathematics Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2027",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2027%20NovPapers%20Exam%20Papers/Technical%20Mathematics%20Memo%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "technical_mathematics-p2qp-en-2027-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Technical Mathematics Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2027",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2027%20NovPapers%20Exam%20Papers/Technical%20Mathematics%20Paper%202%20(English).pdf"
+    },
+    {
+        "id": "technical_mathematics-p2ab-bi-2027-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Technical Mathematics Paper 2 Answer Book (Afrikaans & English)",
+        "type": "AB",
+        "language": "Bilingual",
+        "year": "2027",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2027%20NovPapers%20Exam%20Papers/Technical%20Mathematics%20Paper%202%20Answer%20Book%20(Afrikaans%20%26%20English).pdf"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "id": "accounting-memo-afrikaans-2017-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2017%20November%20past%20papers/Non%20Languages%20Memos/Accounting%20Nov%202017%20Memo%20Afr.pdf?ver=2018-02-20-120503-000"
+    },
+    {
+        "id": "accounting-memo-english-2017-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2017%20November%20past%20papers/Non%20Languages%20Memos/Accounting%20Nov%202017%20Memo%20Eng.pdf?ver=2018-02-20-120435-000"
+    },
+    {
+        "id": "accounting-qp-afrikaans-2017-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=CKnlLcPC2FI%3D"
+    },
+    {
+        "id": "accounting-qp-english-2017-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=MSD6ZnsHRrA%3D"
+    },
+    {
+        "id": "accounting-ab-afrikaans-2017-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 Answer Book (Afrikaans)",
+        "type": "AB",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2017%20November%20past%20papers/Non%20Languages/Accounting%20Nov%202017%20Answer%20Book%20Afr.pdf?ver=2017-10-25-144156-000"
+    },
+    {
+        "id": "accounting-ab-english-2017-term4",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 Answer Book (English)",
+        "type": "AB",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4kQXElZlalk%3D"
+    },
+    {
+        "id": "accounting-memo-afrikaans-2017-term2",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20May-June%20past%20exam%20papers/Non-Languages%20May-June%202017/Accounting%20May-June%202017%20Memo%20Afr.pdf?ver=2017-10-05-152241-000"
+    },
+    {
+        "id": "accounting-memo-english-2017-term2",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20May-June%20past%20exam%20papers/Non-Languages%20May-June%202017/Accounting%20May-June%202017%20Memo%20Eng.pdf?ver=2017-10-05-152325-000"
+    },
+    {
+        "id": "accounting-qp-afrikaans-2017-term2",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=cIGv96DOnho%3D"
+    },
+    {
+        "id": "accounting-qp-english-2017-term2",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=jyl7m1NQcCw%3D"
+    },
+    {
+        "id": "accounting-ab-afrikaans-2017-term2",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 Answer Book (Afrikaans)",
+        "type": "AB",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=3UgzPFVAfhM%3D"
+    },
+    {
+        "id": "accounting-ab-english-2017-term2",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 Answer Book (English)",
+        "type": "AB",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20May-June%20past%20exam%20papers/Non-Languages%20May-June%202017/Accounting%20May-June%202017%20Answer%20Book%20Eng.pdf?ver=2017-07-07-141905-000"
+    },
+    {
+        "id": "accounting-memo-afrikaans-2017-term1",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=EhMZvZvodxw%3D"
+    },
+    {
+        "id": "accounting-memo-english-2017-term1",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20FebMarch%20Exam%20Papers/Accounting%20Feb-March%202017%20Memo%20Eng.pdf?ver=2017-06-22-090904-000"
+    },
+    {
+        "id": "accounting-qp-afrikaans-2017-term1",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ePngzSFlDqc%3D"
+    },
+    {
+        "id": "accounting-qp-english-2017-term1",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=mDTtVI_8-Ok%3D"
+    },
+    {
+        "id": "accounting-ab-afrikaans-2017-term1",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 Answer Book (Afrikaans)",
+        "type": "AB",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20FebMarch%20Exam%20Papers/Accounting%20Feb-March%202017%20Answer%20Book%20Afr.pdf?ver=2017-05-03-104538-000"
+    },
+    {
+        "id": "accounting-ab-english-2017-term1",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Paper 1 Answer Book (English)",
+        "type": "AB",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=oZ_PFNSakrg%3D"
+    }
+]

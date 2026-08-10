@@ -1,0 +1,134 @@
+[
+    {
+        "id": "physical_sciences-qp-english-2018-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2018%20November%20Past%20Papers/Non-Languages%20Nov%202018%20PDF/Physical%20Sciences/Physical%20Sciences%20P2%20Nov%202018%20Eng.pdf?ver=2019-01-08-104022-000"
+    },
+    {
+        "id": "physical_sciences-qp-afrikaans-2018-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=xHHpGmxDPls%3D"
+    },
+    {
+        "id": "physical_sciences-qp-english-2018-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=XrafsttgVzU%3D"
+    },
+    {
+        "id": "physical_sciences-qp-afrikaans-2018-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=8TQ2vuD_dpk%3D"
+    },
+    {
+        "id": "physical_sciences-memo-english-2018-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Memo 2 (English & Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=KHDS8lZFxBE%3D"
+    },
+    {
+        "id": "physical_sciences-memo-english-2018-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Memo 1 (English & Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=R9TOAKfwYQ4%3D"
+    },
+    {
+        "id": "physical_sciences-qp-english-2018-term2",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20May%20June%20past%20papers/Non-Languages%20May-June%202018/Physical%20Sciences/Physical%20Sciences%20P2%20May-June%202018%20Eng.pdf?ver=2018-07-22-115613-000"
+    },
+    {
+        "id": "physical_sciences-qp-afrikaans-2018-term2",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ZgrYjAdN6y4%3D"
+    },
+    {
+        "id": "physical_sciences-qp-english-2018-term2",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=moz7pmDYTYw%3D"
+    },
+    {
+        "id": "physical_sciences-qp-afrikaans-2018-term2",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20May%20June%20past%20papers/Non-Languages%20May-June%202018/Physical%20Sciences/Physical%20Sciences%20P1%20May-June%202018%20Afr.pdf?ver=2018-07-22-115326-000"
+    },
+    {
+        "id": "physical_sciences-memo-english-2018-term2",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Memo 2 (English & Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=DyK78C2CsTo%3D"
+    },
+    {
+        "id": "physical_sciences-memo-english-2018-term2",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Memo 1 (English & Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=MaFLMkH0zK4%3D"
+    }
+]

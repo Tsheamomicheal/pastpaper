@@ -1,0 +1,68 @@
+[
+    {
+        "id": "technical_mathematics-ab-english-2020-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 Answerbook (Afrikaans and English)",
+        "type": "AB",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=LKuwEIhQHDQ%3D"
+    },
+    {
+        "id": "technical_mathematics-qp-english-2020-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Technical%20Mathematics/Technical%20Mathematics%20P2%20Nov%202020%20Eng.pdf?ver=2021-03-12-080856-000"
+    },
+    {
+        "id": "technical_mathematics-qp-afrikaans-2020-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Technical%20Mathematics/Technical%20Mathematics%20P2%20Nov%202020%20Afr.pdf?ver=2021-03-12-080818-000"
+    },
+    {
+        "id": "technical_mathematics-qp-english-2020-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Technical%20Mathematics/Technical%20Mathematics%20P1%20Nov%202020%20Eng.pdf?ver=2021-03-12-080542-000"
+    },
+    {
+        "id": "technical_mathematics-qp-afrikaans-2020-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=34qsY3rcD-s%3D"
+    },
+    {
+        "id": "technical_mathematics-memo-english-2020-term4",
+        "subject": "Technical Mathematics",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans and English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Technical%20Mathematics%20P1%20Nov%202020%20Eng%20%26%20Afr%20Memo.pdf"
+    }
+]

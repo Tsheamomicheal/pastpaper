@@ -1,0 +1,112 @@
+[
+    {
+        "id": "geography-memo-afrikaans-2020-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Geography/Geography%20P1%20Nov%202020%20Memo%20Afr%20(2).pdf?ver=2021-03-10-144623-000"
+    },
+    {
+        "id": "geography-memo-english-2020-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Geography/Geography%20P1%20Nov%202020%20Memo%20Eng%20(2).pdf?ver=2021-03-10-145323-000"
+    },
+    {
+        "id": "geography-memo-afrikaans-2020-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 2 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=qxQp6CcFmMM%3D"
+    },
+    {
+        "id": "geography-memo-english-2020-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 2 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Geography/Geography%20P2%20Nov%202020%20Memo%20Eng%20(2).pdf?ver=2021-03-10-145634-000"
+    },
+    {
+        "id": "geography-qp-afrikaans-2020-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Geography%20(2)/Geography%20P1%20Nov%202020%20Afr%20(2).pdf?ver=2020-12-03-130644-000"
+    },
+    {
+        "id": "geography-qp-english-2020-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Geography%20(2)/Geography%20P1%20Nov%202020%20Eng%20(2).pdf?ver=2020-12-03-130955-000"
+    },
+    {
+        "id": "geography-qp-afrikaans-2020-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 1 Annexure (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Eps3AflHbc0%3D"
+    },
+    {
+        "id": "geography-qp-english-2020-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 1 Annexure (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Geography%20(2)/Geography%20P1%20Nov%202020%20Annexure%20Eng%20(2).pdf?ver=2020-12-03-130847-000"
+    },
+    {
+        "id": "geography-qp-afrikaans-2020-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Geography%20(2)/Geography%20P2%20Nov%202020%20Afr.pdf?ver=2020-12-04-074111-000"
+    },
+    {
+        "id": "geography-qp-english-2020-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4BeqbN365wE%3D"
+    }
+]

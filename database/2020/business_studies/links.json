@@ -1,0 +1,134 @@
+[
+    {
+        "id": "business_studies-memo-afrikaans-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Business%20Studies%20NSC/Business%20Studies%20P1%20Nov%202020%20Afr.pdf?ver=2021-03-10-124444-000"
+    },
+    {
+        "id": "business_studies-memo-english-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Business%20Studies%20NSC/Business%20Studies%20P1%20Nov%202020%20Eng.pdf?ver=2021-03-10-124459-000"
+    },
+    {
+        "id": "business_studies-memo-afrikaans-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 2 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Business%20Studies%20NSC/Business%20Studies%20P2%20Nov%202020%20Afr.pdf?ver=2021-03-10-124551-000"
+    },
+    {
+        "id": "business_studies-memo-english-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 2 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Business%20Studies%20NSC/Business%20Studies%20P2%20Nov%202020%20Eng.pdf?ver=2021-03-10-124618-000"
+    },
+    {
+        "id": "business_studies-qp-afrikaans-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Business%20Studies%20NSC%20(2)/Business%20Studies%20P1%20NSC%20Nov%202020%20Afr.pdf?ver=2020-11-18-125017-000"
+    },
+    {
+        "id": "business_studies-qp-english-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Q9AdzrjDjok%3D"
+    },
+    {
+        "id": "business_studies-qp-afrikaans-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Business%20Studies%20NSC%20(2)/Business%20Studies%20P2%20NSC%20Nov%202020%20Afr%20(2).pdf?ver=2020-11-26-105504-000"
+    },
+    {
+        "id": "business_studies-qp-english-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Business%20Studies%20NSC%20(2)/Business%20Studies%20P2%20NSC%20Nov%202020%20Eng%20(2).pdf?ver=2020-11-26-105550-000"
+    },
+    {
+        "id": "business_studies-qp-english-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Business%20Studies/Business%20Studies%20SC%20Nov%202020%20Eng.pdf?ver=2020-11-19-080324-000"
+    },
+    {
+        "id": "business_studies-qp-afrikaans-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Business%20Studies/Business%20Studies%20SC%20Nov%202020%20Afr.pdf?ver=2020-11-19-080312-000"
+    },
+    {
+        "id": "business_studies-memo-english-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Cb7Nj61euUI%3D"
+    },
+    {
+        "id": "business_studies-memo-afrikaans-2020-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Business%20Studies%20SC/Business%20Studies%20Nov%202020%20Memo%20Afr.pdf?ver=2021-03-11-111129-000"
+    }
+]
