@@ -1,0 +1,90 @@
+[
+    {
+        "id": "business_studies-memo-afrikaans-2018-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=RoSugePfDPs%3D"
+    },
+    {
+        "id": "business_studies-memo-english-2018-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2018%20November%20Past%20Papers/Non-Languages%20Nov%202018%20PDF/Business%20Studies/Business%20Studies%20Nov%202018%20FINAL%20Memo%20Eng..pdf?ver=2019-04-25-121400-000"
+    },
+    {
+        "id": "business_studies-qp-afrikaans-2018-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2018%20November%20Past%20Papers/Non-Languages%20Nov%202018%20PDF/Business%20Studies/Business%20Studies%20Nov%202018%20Afr.pdf?ver=2019-01-08-083702-000"
+    },
+    {
+        "id": "business_studies-qp-english-2018-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=qi059rWN_iI%3D"
+    },
+    {
+        "id": "business_studies-memo-afrikaans-2018-term2",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=fGGYYb-G3eA%3D"
+    },
+    {
+        "id": "business_studies-memo-english-2018-term2",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=WTweU4qVI_I%3D"
+    },
+    {
+        "id": "business_studies-qp-afrikaans-2018-term2",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=fD5yDWSM1d4%3D"
+    },
+    {
+        "id": "business_studies-qp-english-2018-term2",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=MAyw_kzoNMQ%3D"
+    }
+]

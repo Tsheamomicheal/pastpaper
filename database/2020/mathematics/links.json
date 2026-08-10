@@ -1,0 +1,79 @@
+[
+    {
+        "id": "mathematics-ab-english-2020-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 Answerbook (English & Afrikaans)",
+        "type": "AB",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=bpqGfOO_0wA%3D"
+    },
+    {
+        "id": "mathematics-qp-english-2020-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=f-OMZa2HZ5U%3D"
+    },
+    {
+        "id": "mathematics-qp-afrikaans-2020-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Mathematics/Mathematics%20P2%20Nov%202020%20Afr.pdf?ver=2021-03-12-082728-000"
+    },
+    {
+        "id": "mathematics-qp-english-2020-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Mathematics/Mathematics%20P1%20Nov%202020%20Eng.pdf?ver=2021-03-12-082750-000"
+    },
+    {
+        "id": "mathematics-qp-afrikaans-2020-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Mathematics/Mathematics%20P1%20Nov%202020%20Afr.pdf?ver=2021-03-12-082812-000"
+    },
+    {
+        "id": "mathematics-memo-english-2020-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Memo 2 (Afrikaans & English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=R9cpC35sw60%3D"
+    },
+    {
+        "id": "mathematics-memo-english-2020-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans and English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mathematics%20P1%20Nov%202020%20Memo%20Afr%20%26%20Eng.pdf"
+    }
+]

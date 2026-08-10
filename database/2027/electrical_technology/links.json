@@ -1,0 +1,46 @@
+[
+    {
+        "id": "electrical_technology-qp-en-2027-term4",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Electrical Technology Woodworking Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2027",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2027%20NovPapers%20Exam%20Papers/Electrical%20Technology%20Woodworking%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "electrical_technology-qp-af-2027-term4",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Electrical Technology Woodworking Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2027",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2027%20NovPapers%20Exam%20Papers/Electrical%20Technology%20Woodworking%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "electrical_technology-memo-en-2027-term4",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Electrical Technology Woodworking Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2027",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2027%20NovPapers%20Exam%20Papers/Electrical%20Technology%20Woodworking%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "electrical_technology-memo-af-2027-term4",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Electrical Technology Woodworking Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2027",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2027%20NovPapers%20Exam%20Papers/Electrical%20Technology%20Woodworking%20Memo%201%20(Afrikaans).pdf"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "id": "business_studies-memo-afrikaans-2021-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021NovemberExamPapers/Non-Languages%20Nov%202021%20Marking%20Guidelines%20PDF/Business%20Studies/Business%20Studies%20P1%20Nov%202021%20MG%20Afr.pdf?ver=2022-02-02-130045-000"
+    },
+    {
+        "id": "business_studies-memo-english-2021-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4JcdxuJy6a0%3D"
+    },
+    {
+        "id": "business_studies-memo-afrikaans-2021-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 2 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20Marking%20Guidelines%20PDF/Business%20Studies/Business%20Studies%20P2%20May-June%202021%20MG%20Afr.pdf?ver=2021-08-18-115412-000"
+    },
+    {
+        "id": "business_studies-memo-english-2021-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 2 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=50_YOcEOpgA%3D"
+    },
+    {
+        "id": "business_studies-qp-afrikaans-2021-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021NovemberExamPapers/Non-Languages%20Nov%202021%20PDF/Business%20Studies/Business%20Studies%20P1%20Nov%202021%20Afr.pdf?ver=2021-10-28-125615-000"
+    },
+    {
+        "id": "business_studies-qp-english-2021-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20PDF/Business%20Studies/Business%20Studies%20P1%20May-June%202021%20Eng.pdf?ver=2021-06-23-105341-000"
+    },
+    {
+        "id": "business_studies-qp-afrikaans-2021-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=fvqEgDSBChE%3D"
+    },
+    {
+        "id": "business_studies-qp-english-2021-term4",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021NovemberExamPapers/Non-Languages%20Nov%202021%20PDF/Business%20Studies/Business%20Studies%20P2%20Nov%202021%20Eng.pdf?ver=2021-11-10-123023-000"
+    },
+    {
+        "id": "business_studies-memo-afrikaans-2021-term2",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20Marking%20Guidelines%20PDF/Business%20Studies/Business%20Studies%20P1%20May-June%202021%20MG%20Afr.pdf?ver=2021-08-18-115031-000"
+    },
+    {
+        "id": "business_studies-memo-english-2021-term2",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Memo 2 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20Marking%20Guidelines%20PDF/Business%20Studies/Business%20Studies%20P2%20May-June%202021%20MG%20Eng.pdf?ver=2021-08-18-115514-000"
+    },
+    {
+        "id": "business_studies-qp-afrikaans-2021-term2",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20PDF/Business%20Studies/Business%20Studies%20P1%20May-June%202021%20Afr.pdf?ver=2021-06-23-105329-000"
+    },
+    {
+        "id": "business_studies-qp-afrikaans-2021-term2",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20PDF/Business%20Studies/Business%20Studies%20P2%20May-June%202021%20Afr.pdf?ver=2021-06-29-072814-000"
+    },
+    {
+        "id": "business_studies-qp-english-2021-term2",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20PDF/Business%20Studies/Business%20Studies%20P2%20May-June%202021%20Eng.pdf?ver=2021-06-29-072914-000"
+    }
+]

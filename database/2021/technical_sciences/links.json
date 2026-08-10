@@ -1,0 +1,134 @@
+[
+    {
+        "id": "technical_sciences-qp-english-2021-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021NovemberExamPapers/Non-Languages%20Nov%202021%20PDF/Technical%20Sciences/Technical%20Sciences%20P2%20Nov%202021%20Eng.pdf?ver=2021-11-15-123747-000"
+    },
+    {
+        "id": "technical_sciences-qp-afrikaans-2021-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021NovemberExamPapers/Non-Languages%20Nov%202021%20PDF/Technical%20Sciences/Technical%20Sciences%20P2%20Nov%202021%20Afr.pdf?ver=2021-11-15-123635-000"
+    },
+    {
+        "id": "technical_sciences-qp-english-2021-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=XvnP1oLhOeA%3D"
+    },
+    {
+        "id": "technical_sciences-qp-afrikaans-2021-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=1Mf_bGMWRbc%3D"
+    },
+    {
+        "id": "technical_sciences-memo-english-2021-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Memo 2 (English and Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=wGxJ0ojVqek%3D"
+    },
+    {
+        "id": "technical_sciences-memo-english-2021-term4",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Memo 1 (English and Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Technical%20Sciences%20P1%20Nov%202021%20MG%20Eng%20%26%20Afr.pdf"
+    },
+    {
+        "id": "technical_sciences-qp-english-2021-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20PDF/Technical%20Sciences/Technical%20Sciences%20P2%20May-June%202021%20Eng.pdf?ver=2021-06-15-080635-000"
+    },
+    {
+        "id": "technical_sciences-qp-afrikaans-2021-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20PDF/Technical%20Sciences/Technical%20Sciences%20P2%20May-June%202021%20Afr.pdf?ver=2021-06-15-080618-000"
+    },
+    {
+        "id": "technical_sciences-qp-english-2021-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20PDF/Technical%20Sciences/Technical%20Sciences%20P1%20May-June%202021%20Eng.pdf?ver=2021-06-11-130408-000"
+    },
+    {
+        "id": "technical_sciences-qp-afrikaans-2021-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20PDF/Technical%20Sciences/Technical%20Sciences%20P1%20May-June%202021%20Afr.pdf?ver=2021-06-11-130259-000"
+    },
+    {
+        "id": "technical_sciences-memo-english-2021-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Memo 2 (English and Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=HIT9HUDE5fo%3D"
+    },
+    {
+        "id": "technical_sciences-memo-english-2021-term2",
+        "subject": "Technical Sciences",
+        "specialization": "None",
+        "title": "Memo 1 (English and Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=8IYILsdaNkQ%3D"
+    }
+]

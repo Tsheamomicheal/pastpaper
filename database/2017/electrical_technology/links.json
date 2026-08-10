@@ -1,0 +1,90 @@
+[
+    {
+        "id": "electrical_technology-memo-afrikaans-2017-term4",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20November%20past%20papers/Non%20Languages%20Memos/Electrical%20Technology%20Nov%202017%20Memo%20Afr%20Goedgekeurde%20Memorandum%2024%20November%202017.pdf?ver=2018-03-02-140404-000"
+    },
+    {
+        "id": "electrical_technology-memo-english-2017-term4",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=eNKvMu4Zsrk%3D"
+    },
+    {
+        "id": "electrical_technology-qp-afrikaans-2017-term4",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20November%20past%20papers/Non%20Languages/Electrical%20Technology%20Nov%202017%20Afr.pdf?ver=2017-11-10-082746-000"
+    },
+    {
+        "id": "electrical_technology-qp-english-2017-term4",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=K4NRgXFFs3k%3D"
+    },
+    {
+        "id": "electrical_technology-memo-afrikaans-2017-term1",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20FebMarch%20Exam%20Papers/Electrical%20Technology%20Feb-March%202017%20Memo%20Afr.pdf?ver=2017-06-22-091638-000"
+    },
+    {
+        "id": "electrical_technology-memo-english-2017-term1",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20FebMarch%20Exam%20Papers/Electrical%20Technology%20Feb-March%202017%20Memo%20Eng.pdf?ver=2017-06-22-091651-000"
+    },
+    {
+        "id": "electrical_technology-qp-afrikaans-2017-term1",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20FebMarch%20Exam%20Papers/Electrical%20Technology%20Feb-March%202017%20Afr.pdf?ver=2017-05-03-105857-000"
+    },
+    {
+        "id": "electrical_technology-qp-english-2017-term1",
+        "subject": "Electrical Technology",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2017",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2017%20FebMarch%20Exam%20Papers/Electrical%20Technology%20Feb-March%202017%20Eng.pdf?ver=2017-05-03-105936-000"
+    }
+]

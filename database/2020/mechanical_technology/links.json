@@ -1,0 +1,134 @@
+[
+    {
+        "id": "mechanical_technology-qp-english-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Welding and Metalwork Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mechanical%20Technology%20Nov%202020%20%28Welding%20%26%20Metalwork%29%20Eng.pdf"
+    },
+    {
+        "id": "mechanical_technology-qp-afrikaans-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Welding and Metalwork Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mechanical%20Technology%20Nov%202020%20%28Welding%20%26%20Metalwork%29%20Afr.pdf"
+    },
+    {
+        "id": "mechanical_technology-memo-english-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Welding and Metalwork Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mechanical%20Technology%20Nov%202020%20%28Welding%20%26%20Metalwork%29%20Memo%20Eng.pdf"
+    },
+    {
+        "id": "mechanical_technology-memo-afrikaans-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Welding and Metalwork Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Mechanical%20Technology/Mechanical%20Technology%20Nov%202020%20(Welding%20and%20Metalwork)%20Memo%20Afr.pdf?ver=2021-03-10-134606-000"
+    },
+    {
+        "id": "mechanical_technology-qp-english-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Fitting and Machining",
+        "title": "Fitting and Machining Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=JIgVqDFWQRU%3D"
+    },
+    {
+        "id": "mechanical_technology-qp-afrikaans-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Fitting and Machining",
+        "title": "Fitting and Machining Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mechanical%20Technology%20Nov%202020%20%28Fitting%20%26%20Machining%29%20Afr.pdf"
+    },
+    {
+        "id": "mechanical_technology-memo-english-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Fitting and Machining",
+        "title": "Fitting and Machining Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mechanical%20Technology%20Nov%202020%20%28Fitting%20%26%20Machining%29%20Memo%20Eng.pdf"
+    },
+    {
+        "id": "mechanical_technology-memo-afrikaans-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Fitting and Machining",
+        "title": "Fitting and Machining Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Mechanical%20Technology%20Nov%202020%20%28Fitting%20%26%20Machining%29%20Memo%20Afr.pdf"
+    },
+    {
+        "id": "mechanical_technology-qp-english-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Automotive",
+        "title": "Automotive Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Mechanical%20Technology/Mechanical%20Technology%20Nov%202020%20(Automotive)%20Eng.pdf?ver=2020-12-08-083144-000"
+    },
+    {
+        "id": "mechanical_technology-qp-afrikaans-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Automotive",
+        "title": "Automotive Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Mechanical%20Technology/Mechanical%20Technology%20Nov%202020%20(Automotive)%20Afr.pdf?ver=2020-12-08-083121-000"
+    },
+    {
+        "id": "mechanical_technology-memo-english-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Automotive",
+        "title": "Automotive Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=UxmlzJ26MBc%3D"
+    },
+    {
+        "id": "mechanical_technology-memo-afrikaans-2020-term4",
+        "subject": "Mechanical Technology",
+        "specialization": "Automotive",
+        "title": "Automotive Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Mechanical%20Technology/Mechanical%20Technology%20Nov%202020%20(Automotive)%20Memo%20Afr.pdf?ver=2021-03-10-134247-000"
+    }
+]

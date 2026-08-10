@@ -1,0 +1,233 @@
+[
+    {
+        "id": "geography-memo-afrikaans-2022-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Dm0nk4brFkg%3D"
+    },
+    {
+        "id": "geography-memo-english-2022-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=LR-P9fSyokw%3D"
+    },
+    {
+        "id": "geography-memo-afrikaans-2022-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 2 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2022NovExams/Non-Languages%20Nov%202022%20MG%20PDF/Geography/Geography%20P2%20Nov%202022%20MG%20Afr.pdf?ver=2023-02-12-110857-000"
+    },
+    {
+        "id": "geography-memo-english-2022-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 2 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=7g8NC7HQy4w%3D"
+    },
+    {
+        "id": "geography-qp-afrikaans-2022-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2022NovExams/Non-Languages%20Nov%202022%20PDF/Geography/Geography%20P1%20Nov%202022%20Afr.pdf?ver=2022-11-15-134318-000"
+    },
+    {
+        "id": "geography-qp-english-2022-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2022NovExams/Non-Languages%20Nov%202022%20PDF/Geography/Geography%20P1%20Nov%202022%20Eng.pdf?ver=2022-11-15-134440-000"
+    },
+    {
+        "id": "geography-qp-afrikaans-2022-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2022NovExams/Non-Languages%20Nov%202022%20PDF/Geography/Geography%20P2%20Nov%202022%20Afr.pdf?ver=2022-11-23-072212-000"
+    },
+    {
+        "id": "geography-qp-english-2022-term4",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2022NovExams/Non-Languages%20Nov%202022%20PDF/Geography/Geography%20P2%20Nov%202022%20Eng.pdf?ver=2022-11-23-072340-000"
+    },
+    {
+        "id": "geography-memo-afrikaans-2022-term2",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2022",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2022MayJuneExamPapers/Non-Languages%20May-June%202022%20MG%20PDF/Geography/Geography%20P1%20May-June%202022%20MG%20Afr.pdf?ver=2022-08-09-153253-000"
+    },
+    {
+        "id": "geography-memo-english-2022-term2",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ULXGk42Vm1c%3D"
+    },
+    {
+        "id": "geography-memo-afrikaans-2022-term2",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 2 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2022",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2022MayJuneExamPapers/Non-Languages%20May-June%202022%20MG%20PDF/Geography/Geography%20P2%20May-June%202022%20MG%20Afr.pdf?ver=2022-08-09-153457-000"
+    },
+    {
+        "id": "geography-memo-english-2022-term2",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Memo 2 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2022MayJuneExamPapers/Non-Languages%20May-June%202022%20MG%20PDF/Geography/Geography%20P2%20May-June%202022%20MG%20Eng.pdf?ver=2022-08-09-153512-000"
+    },
+    {
+        "id": "geography-qp-afrikaans-2022-term2",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2022",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2022MayJuneExamPapers/Non-Languages%20May-June%202022%20PDF/Geography/Geography%20P1%20May-June%202022%20Afr.pdf?ver=2022-07-21-150303-000"
+    },
+    {
+        "id": "geography-qp-english-2022-term2",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2022MayJuneExamPapers/Non-Languages%20May-June%202022%20PDF/Geography/Geography%20P1%20May-June%202022%20Eng.pdf?ver=2022-07-21-150326-000"
+    },
+    {
+        "id": "geography-qp-afrikaans-2022-term2",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2022",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=8maTf2-JrYM%3D"
+    },
+    {
+        "id": "geography-qp-english-2022-term2",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/2022MayJuneExamPapers/Non-Languages%20May-June%202022%20PDF/Geography/Geography%20P2%20May-June%202022%20Eng.pdf?ver=2022-07-21-150426-000"
+    },
+    {
+        "id": "geography-sg-2022-fihbtx",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Self-Study Guide: Geography: Climate and weather",
+        "type": "SG",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/Documents/Manuals/2022%20Study%20Guides/High%20Enrolment%20Study%20Guides%20FINAL/GEOGRAPHY%20CLIMATE%20FINAL%20revised.pdf?ver=2022-01-31-121404-443"
+    },
+    {
+        "id": "geography-sg-2022-yktcp5",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Self-Study Guide: Geography: Geomorphology",
+        "type": "SG",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=yktcp5kWFog%3D"
+    },
+    {
+        "id": "geography-sg-2022-ejtvyl",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Self-Study Guide: Geography: Economic Geography of South Africa",
+        "type": "SG",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ejtvYLhE4zc%3D"
+    },
+    {
+        "id": "geography-sg-2022-7nhagt",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Self-Study Guide: Geography Map Book",
+        "type": "SG",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/Documents/Manuals/FET/DATA%20DRIVEN%20STUDY%20GUIDES/GEOGRAPHY/Geography%20Booklet%20COMPLETE_low%20res.pdf?ver=2019-05-21-121124-000"
+    },
+    {
+        "id": "geography-sg-2022-orkkoj",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Self-Study Guide: Geography Mapwork Grade 10 - 12",
+        "type": "SG",
+        "language": "English",
+        "year": "2022",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/Self-Study_Geography_Mapwork_Gr_10-12.pdf?ver=2013-11-08-132910-000"
+    }
+]

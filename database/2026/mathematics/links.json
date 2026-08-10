@@ -1,0 +1,68 @@
+[
+    {
+        "id": "mathematics-qp-en-2026-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Mathematics Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2026",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2026%20NovPapers%20Exam%20Papers/Mathematics%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "mathematics-qp-af-2026-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Mathematics Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2026",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2026%20NovPapers%20Exam%20Papers/Mathematics%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "mathematics-memo-en-2026-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Mathematics Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2026",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2026%20NovPapers%20Exam%20Papers/Mathematics%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "mathematics-memo-af-2026-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Mathematics Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2026",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2026%20NovPapers%20Exam%20Papers/Mathematics%20Memo%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "mathematics-p2qp-en-2026-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Mathematics Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2026",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2026%20NovPapers%20Exam%20Papers/Mathematics%20Paper%202%20(English).pdf"
+    },
+    {
+        "id": "mathematics-p2ab-bi-2026-term4",
+        "subject": "Mathematics",
+        "specialization": "None",
+        "title": "Mathematics Paper 2 Answer Book (Afrikaans & English)",
+        "type": "AB",
+        "language": "Bilingual",
+        "year": "2026",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2026%20NovPapers%20Exam%20Papers/Mathematics%20Paper%202%20Answer%20Book%20(Afrikaans%20%26%20English).pdf"
+    }
+]

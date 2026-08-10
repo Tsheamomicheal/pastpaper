@@ -1,0 +1,68 @@
+[
+    {
+        "id": "physical_sciences-qp-english-2020-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=xUQ6Zo6wIpI%3D"
+    },
+    {
+        "id": "physical_sciences-qp-afrikaans-2020-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 2 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Physical%20Sciences/Physical%20Sciences%20P2%20Nov%202020%20Afr.pdf?ver=2020-11-23-135525-000"
+    },
+    {
+        "id": "physical_sciences-qp-english-2020-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=65cL9MczvtQ%3D"
+    },
+    {
+        "id": "physical_sciences-qp-afrikaans-2020-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/Physical%20Sciences/Physical%20Sciences%20P1%20Nov%202020%20Afr.pdf?ver=2020-12-02-115707-000"
+    },
+    {
+        "id": "physical_sciences-memo-english-2020-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Memo 2 (English & Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Physical%20Sciences%20P2%20Nov%202020%20Eng%20%26%20Afr%20Memo.pdf"
+    },
+    {
+        "id": "physical_sciences-memo-english-2020-term4",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Memo 1 (English & Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 4",
+        "url": "https://www.education.gov.za/Portals/0/CD/Physical%20Sciences%20P1%20Nov%202020%20Eng%20%26%20Afr%20Memo.pdf"
+    }
+]
