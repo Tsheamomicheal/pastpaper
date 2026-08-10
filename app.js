@@ -745,7 +745,7 @@ function generateFileticket(id) {
 }
 
 // Generate past papers for specified years
-const targetYears = ["2017", "2018", "2019", "2020", "2021", "2024"];
+const targetYears = ["2017", "2018", "2019", "2020", "2021", "2022", "2024", "2025"];
 
 // Mapping of tabid and mid for subjects for simulated URLs
 const simulatedConfig = {
@@ -754,7 +754,15 @@ const simulatedConfig = {
     "Mechanical Technology": { tabid: "4682", mid: "12683" },
     "Technical Mathematics": { tabid: "4682", mid: "12687" },
     "Technical Sciences": { tabid: "4682", mid: "12688" },
-    "Engineering Graphic and Design": { tabid: "4682", mid: "12673" }
+    "Engineering Graphic and Design": { tabid: "4682", mid: "12673" },
+    "Mathematics": { tabid: "4682", mid: "12690" },
+    "Physical Sciences": { tabid: "4682", mid: "12691" },
+    "Life Sciences": { tabid: "4682", mid: "12692" },
+    "Business Studies": { tabid: "4682", mid: "12693" },
+    "Accounting": { tabid: "4682", mid: "12694" },
+    "Geography": { tabid: "4682", mid: "12695" },
+    "History": { tabid: "4682", mid: "12696" },
+    "English FAL": { tabid: "4682", mid: "12697" }
 };
 
 targetYears.forEach(year => {
@@ -1240,6 +1248,189 @@ targetYears.forEach(year => {
         year: year,
         url: egM2AfUrl
     });
+
+    // 7. Non-technical subjects
+    const nonTechSubjects = ["Mathematics", "Physical Sciences", "Life Sciences", "Business Studies", "Accounting", "Geography", "History"];
+    const nonTechSubjectPrefixes = {
+        "Mathematics": "maths",
+        "Physical Sciences": "phys",
+        "Life Sciences": "life",
+        "Business Studies": "bus",
+        "Accounting": "acc",
+        "Geography": "geo",
+        "History": "hist"
+    };
+
+    nonTechSubjects.forEach(sub => {
+        const pfx = nonTechSubjectPrefixes[sub];
+        const config = simulatedConfig[sub];
+
+        // Paper 1 English QP
+        const p1EnId = `${pfx}-p1-qp-en-${year}`;
+        const p1EnUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(p1EnId)}&tabid=${config.tabid}&portalid=0&mid=${config.mid}&forcedownload=true`;
+        papersDataset.push({
+            id: p1EnId,
+            subject: sub,
+            specialization: "None",
+            title: `Paper 1 (English)`,
+            type: "QP",
+            language: "English",
+            year: year,
+            url: p1EnUrl
+        });
+
+        // Paper 1 Afrikaans QP
+        const p1AfId = `${pfx}-p1-qp-af-${year}`;
+        const p1AfUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(p1AfId)}&tabid=${config.tabid}&portalid=0&mid=${config.mid}&forcedownload=true`;
+        papersDataset.push({
+            id: p1AfId,
+            subject: sub,
+            specialization: "None",
+            title: `Paper 1 (Afrikaans)`,
+            type: "QP",
+            language: "Afrikaans",
+            year: year,
+            url: p1AfUrl
+        });
+
+        // Paper 1 English Memo
+        const m1EnId = `${pfx}-p1-memo-en-${year}`;
+        const m1EnUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(m1EnId)}&tabid=${config.tabid}&portalid=0&mid=${config.mid}&forcedownload=true`;
+        papersDataset.push({
+            id: m1EnId,
+            subject: sub,
+            specialization: "None",
+            title: `Paper 1 Memorandum (English)`,
+            type: "Memo",
+            language: "English",
+            year: year,
+            url: m1EnUrl
+        });
+
+        // Paper 1 Afrikaans Memo
+        const m1AfId = `${pfx}-p1-memo-af-${year}`;
+        const m1AfUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(m1AfId)}&tabid=${config.tabid}&portalid=0&mid=${config.mid}&forcedownload=true`;
+        papersDataset.push({
+            id: m1AfId,
+            subject: sub,
+            specialization: "None",
+            title: `Paper 1 Memorandum (Afrikaans)`,
+            type: "Memo",
+            language: "Afrikaans",
+            year: year,
+            url: m1AfUrl
+        });
+
+        // Paper 2 English QP
+        const p2EnId = `${pfx}-p2-qp-en-${year}`;
+        const p2EnUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(p2EnId)}&tabid=${config.tabid}&portalid=0&mid=${config.mid}&forcedownload=true`;
+        papersDataset.push({
+            id: p2EnId,
+            subject: sub,
+            specialization: "None",
+            title: `Paper 2 (English)`,
+            type: "QP",
+            language: "English",
+            year: year,
+            url: p2EnUrl
+        });
+
+        // Paper 2 Afrikaans QP
+        const p2AfId = `${pfx}-p2-qp-af-${year}`;
+        const p2AfUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(p2AfId)}&tabid=${config.tabid}&portalid=0&mid=${config.mid}&forcedownload=true`;
+        papersDataset.push({
+            id: p2AfId,
+            subject: sub,
+            specialization: "None",
+            title: `Paper 2 (Afrikaans)`,
+            type: "QP",
+            language: "Afrikaans",
+            year: year,
+            url: p2AfUrl
+        });
+
+        // Paper 2 English Memo
+        const m2EnId = `${pfx}-p2-memo-en-${year}`;
+        const m2EnUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(m2EnId)}&tabid=${config.tabid}&portalid=0&mid=${config.mid}&forcedownload=true`;
+        papersDataset.push({
+            id: m2EnId,
+            subject: sub,
+            specialization: "None",
+            title: `Paper 2 Memorandum (English)`,
+            type: "Memo",
+            language: "English",
+            year: year,
+            url: m2EnUrl
+        });
+
+        // Paper 2 Afrikaans Memo
+        const m2AfId = `${pfx}-p2-memo-af-${year}`;
+        const m2AfUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(m2AfId)}&tabid=${config.tabid}&portalid=0&mid=${config.mid}&forcedownload=true`;
+        papersDataset.push({
+            id: m2AfId,
+            subject: sub,
+            specialization: "None",
+            title: `Paper 2 Memorandum (Afrikaans)`,
+            type: "Memo",
+            language: "Afrikaans",
+            year: year,
+            url: m2AfUrl
+        });
+    });
+
+    // English FAL (First Additional Language) - English only
+    const engFalConfig = simulatedConfig["English FAL"];
+    const efP1QpId = `engfal-p1-qp-en-${year}`;
+    const efP1QpUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(efP1QpId)}&tabid=${engFalConfig.tabid}&portalid=0&mid=${engFalConfig.mid}&forcedownload=true`;
+    papersDataset.push({
+        id: efP1QpId,
+        subject: "English FAL",
+        specialization: "None",
+        title: `Paper 1 (English)`,
+        type: "QP",
+        language: "English",
+        year: year,
+        url: efP1QpUrl
+    });
+
+    const efP1MemoId = `engfal-p1-memo-en-${year}`;
+    const efP1MemoUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(efP1MemoId)}&tabid=${engFalConfig.tabid}&portalid=0&mid=${engFalConfig.mid}&forcedownload=true`;
+    papersDataset.push({
+        id: efP1MemoId,
+        subject: "English FAL",
+        specialization: "None",
+        title: `Paper 1 Memorandum (English)`,
+        type: "Memo",
+        language: "English",
+        year: year,
+        url: efP1MemoUrl
+    });
+
+    const efP2QpId = `engfal-p2-qp-en-${year}`;
+    const efP2QpUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(efP2QpId)}&tabid=${engFalConfig.tabid}&portalid=0&mid=${engFalConfig.mid}&forcedownload=true`;
+    papersDataset.push({
+        id: efP2QpId,
+        subject: "English FAL",
+        specialization: "None",
+        title: `Paper 2 (English)`,
+        type: "QP",
+        language: "English",
+        year: year,
+        url: efP2QpUrl
+    });
+
+    const efP2MemoId = `engfal-p2-memo-en-${year}`;
+    const efP2MemoUrl = `https://www.education.gov.za/LinkClick.aspx?fileticket=${generateFileticket(efP2MemoId)}&tabid=${engFalConfig.tabid}&portalid=0&mid=${engFalConfig.mid}&forcedownload=true`;
+    papersDataset.push({
+        id: efP2MemoId,
+        subject: "English FAL",
+        specialization: "None",
+        title: `Paper 2 Memorandum (English)`,
+        type: "Memo",
+        language: "English",
+        year: year,
+        url: efP2MemoUrl
+    });
 });
 
 // Specialization mappings for multi-discipline technical subjects
@@ -1271,6 +1462,11 @@ function init() {
     // Count exam papers (type !== "SG") and study guides (type === "SG") separately
     const papersCount = papersDataset.filter(paper => paper.type !== "SG").length;
     const guidesCount = papersDataset.filter(paper => paper.type === "SG").length;
+
+    // Dynamically calculate the number of unique subjects in the dataset
+    const uniqueSubjects = new Set(papersDataset.map(paper => paper.subject));
+    const statSubjectsEl = document.getElementById("stat-subjects");
+    if (statSubjectsEl) statSubjectsEl.textContent = uniqueSubjects.size;
 
     // Set total curated files and study guides stats dynamically
     if (statFilesEl) statFilesEl.textContent = papersCount;
@@ -1391,9 +1587,9 @@ function filterAndRender() {
 
             // Subject Color Styling Codes
             let subjectBadgeClass = "bg-slate-100 text-slate-800 ring-1 ring-inset ring-slate-600/10";
-            if (paper.subject === "Technical Mathematics") {
+            if (paper.subject === "Technical Mathematics" || paper.subject === "Mathematics") {
                 subjectBadgeClass = "bg-green-50 text-green-700 ring-1 ring-inset ring-green-600/10";
-            } else if (paper.subject === "Technical Sciences") {
+            } else if (paper.subject === "Technical Sciences" || paper.subject === "Physical Sciences") {
                 subjectBadgeClass = "bg-violet-50 text-violet-700 ring-1 ring-inset ring-violet-600/10";
             } else if (paper.subject === "Civil Technology") {
                 subjectBadgeClass = "bg-blue-50 text-blue-700 ring-1 ring-inset ring-blue-600/10";
@@ -1403,6 +1599,18 @@ function filterAndRender() {
                 subjectBadgeClass = "bg-rose-50 text-rose-700 ring-1 ring-inset ring-rose-600/10";
             } else if (paper.subject === "Engineering Graphic and Design") {
                 subjectBadgeClass = "bg-indigo-50 text-indigo-700 ring-1 ring-inset ring-indigo-600/10";
+            } else if (paper.subject === "Life Sciences") {
+                subjectBadgeClass = "bg-emerald-50 text-emerald-700 ring-1 ring-inset ring-emerald-600/10";
+            } else if (paper.subject === "Business Studies") {
+                subjectBadgeClass = "bg-yellow-50 text-yellow-700 ring-1 ring-inset ring-yellow-600/10";
+            } else if (paper.subject === "Accounting") {
+                subjectBadgeClass = "bg-cyan-50 text-cyan-700 ring-1 ring-inset ring-cyan-600/10";
+            } else if (paper.subject === "Geography") {
+                subjectBadgeClass = "bg-orange-50 text-orange-700 ring-1 ring-inset ring-orange-600/10";
+            } else if (paper.subject === "History") {
+                subjectBadgeClass = "bg-red-50 text-red-700 ring-1 ring-inset ring-red-600/10";
+            } else if (paper.subject === "English FAL") {
+                subjectBadgeClass = "bg-pink-50 text-pink-700 ring-1 ring-inset ring-pink-600/10";
             }
 
             // Language Badge Styling
