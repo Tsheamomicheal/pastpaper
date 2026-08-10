@@ -1503,6 +1503,7 @@ const btnReset = document.getElementById("btn-reset");
 const btnNoResultsReset = document.getElementById("btn-no-results-reset");
 const papersTbody = document.getElementById("papers-tbody");
 const noResultsDiv = document.getElementById("no-results");
+const selectFilterPromptDiv = document.getElementById("select-filter-prompt");
 const resultCountEl = document.getElementById("result-count");
 const statFilesEl = document.getElementById("stat-files");
 const statGuidesEl = document.getElementById("stat-guides");
@@ -1533,6 +1534,11 @@ function init() {
 
     btnReset.addEventListener("click", resetAllFilters);
     btnNoResultsReset.addEventListener("click", resetAllFilters);
+
+    // Initially disable search bar and set attributes
+    searchInput.disabled = true;
+    searchInput.classList.add("bg-slate-100", "cursor-not-allowed", "opacity-60");
+    searchInput.placeholder = "Select year/subject first...";
 
     // Initial render
     filterAndRender();
@@ -1582,13 +1588,41 @@ function resetAllFilters() {
 
 // Main logic to filter the dataset and render matching rows
 function filterAndRender() {
-    const query = searchInput.value.toLowerCase().trim();
     const termVal = filterTerm ? filterTerm.value : "ALL";
     const subject = filterSubject.value;
     const specialization = filterSpecialization.value;
     const language = filterLanguage.value;
     const type = filterType.value;
     const year = filterYear.value;
+
+    // Check if at least Year or Subject filter is selected
+    const isLazyLoadConditionMet = (year !== "ALL" || subject !== "ALL");
+
+    if (!isLazyLoadConditionMet) {
+        // Disable search input
+        searchInput.disabled = true;
+        searchInput.classList.add("bg-slate-100", "cursor-not-allowed", "opacity-60");
+        searchInput.placeholder = "Select year/subject first...";
+        searchInput.value = "";
+
+        // Hide table rendering and no results, show select-filter-prompt
+        papersTbody.innerHTML = "";
+        noResultsDiv.classList.add("hidden");
+        if (selectFilterPromptDiv) selectFilterPromptDiv.classList.remove("hidden");
+        resultCountEl.textContent = `Matched Papers (0)`;
+        papersTbody.parentElement.parentElement.classList.add("border-b-0");
+        return;
+    }
+
+    // Enable search input
+    searchInput.disabled = false;
+    searchInput.classList.remove("bg-slate-100", "cursor-not-allowed", "opacity-60");
+    searchInput.placeholder = "e.g. Woodworking, Memo...";
+
+    // Hide select filter prompt
+    if (selectFilterPromptDiv) selectFilterPromptDiv.classList.add("hidden");
+
+    const query = searchInput.value.toLowerCase().trim();
 
     // Filter array
     const filteredPapers = papersDataset.filter(paper => {
