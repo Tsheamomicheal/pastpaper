@@ -328,5 +328,49 @@
         "year": "2019",
         "term": "Term 2",
         "url": "https://www.education.gov.za/Portals/0/CD/2019%20June%20Exams/Languages%20May-June%202019%20Memos%20PDF/English/HL/English%20HL%20P3%20May-June%202019%20Memo.pdf?ver=2022-05-23-152044-133"
+    },
+    {
+        "id": "english_fal-qp-en-2019-term1",
+        "subject": "English",
+        "specialization": "None",
+        "title": "English Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/English%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "english_fal-qp-af-2019-term1",
+        "subject": "English",
+        "specialization": "None",
+        "title": "English Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/English%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "english_fal-memo-en-2019-term1",
+        "subject": "English",
+        "specialization": "None",
+        "title": "English Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/English%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "english_fal-memo-af-2019-term1",
+        "subject": "English",
+        "specialization": "None",
+        "title": "English Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/English%20Memo%201%20(Afrikaans).pdf"
     }
 ]

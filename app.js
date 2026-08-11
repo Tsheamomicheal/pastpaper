@@ -63,7 +63,7 @@ const statSubjectsEl = document.getElementById("stat-subjects");
 function init() {
     // Populate stats
     if (statSubjectsEl) statSubjectsEl.textContent = "14";
-    if (statFilesEl) statFilesEl.textContent = "2285";
+    if (statFilesEl) statFilesEl.textContent = "2855";
     if (statGuidesEl) statGuidesEl.textContent = "268";
 
     // Setup Event Listeners

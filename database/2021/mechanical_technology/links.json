@@ -262,5 +262,49 @@
         "year": "2021",
         "term": "Term 2",
         "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20Marking%20Guidelines%20PDF/Mechanical%20Technology/Mechanical%20Technology%20May-June%202021%20(Automotive)%20MG%20Afr.pdf?ver=2021-08-19-081957-000"
+    },
+    {
+        "id": "mechanical_technology-qp-en-2021-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "mechanical_technology-qp-af-2021-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "mechanical_technology-memo-en-2021-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "mechanical_technology-memo-af-2021-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Memo%201%20(Afrikaans).pdf"
     }
 ]

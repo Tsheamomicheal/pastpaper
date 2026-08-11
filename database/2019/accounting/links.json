@@ -130,5 +130,49 @@
         "year": "2019",
         "term": "Term 2",
         "url": "https://www.education.gov.za/Portals/0/CD/2019%20June%20Exams/Non-Languages%20May-June%202019%20PDF/Accounting/Accounting%20May-June%202019%20Answer%20Book%20Eng.pdf?ver=2019-05-07-082323-000"
+    },
+    {
+        "id": "accounting-qp-en-2019-term1",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Accounting Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/Accounting%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "accounting-qp-af-2019-term1",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Accounting Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/Accounting%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "accounting-memo-en-2019-term1",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Accounting Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/Accounting%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "accounting-memo-af-2019-term1",
+        "subject": "Accounting",
+        "specialization": "None",
+        "title": "Accounting Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/Accounting%20Memo%201%20(Afrikaans).pdf"
     }
 ]

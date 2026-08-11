@@ -262,5 +262,49 @@
         "year": "2021",
         "term": "Term 2",
         "url": "https://www.education.gov.za/Portals/0/CD/2021ExamPapers/Non-Languages%20May-June%202021%20PDF/Electrical%20Technology/Electrical%20Technology%20May-June%202021%20(Power%20Systems)%20Eng.pdf?ver=2021-06-03-130137-000"
+    },
+    {
+        "id": "electrical_technology-qp-en-2021-term1",
+        "subject": "Electrical Technology",
+        "specialization": "Digital Electronics",
+        "title": "Electrical Technology Digital Electronics Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Electrical%20Technology%20Digital%20Electronics%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "electrical_technology-qp-af-2021-term1",
+        "subject": "Electrical Technology",
+        "specialization": "Digital Electronics",
+        "title": "Electrical Technology Digital Electronics Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Electrical%20Technology%20Digital%20Electronics%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "electrical_technology-memo-en-2021-term1",
+        "subject": "Electrical Technology",
+        "specialization": "Digital Electronics",
+        "title": "Electrical Technology Digital Electronics Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Electrical%20Technology%20Digital%20Electronics%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "electrical_technology-memo-af-2021-term1",
+        "subject": "Electrical Technology",
+        "specialization": "Digital Electronics",
+        "title": "Electrical Technology Digital Electronics Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Electrical%20Technology%20Digital%20Electronics%20Memo%201%20(Afrikaans).pdf"
     }
 ]

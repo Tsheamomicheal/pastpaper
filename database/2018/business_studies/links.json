@@ -86,5 +86,49 @@
         "year": "2018",
         "term": "Term 2",
         "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=MAyw_kzoNMQ%3D"
+    },
+    {
+        "id": "business_studies-qp-en-2018-term1",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Business Studies Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Business%20Studies%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "business_studies-qp-af-2018-term1",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Business Studies Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Business%20Studies%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "business_studies-memo-en-2018-term1",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Business Studies Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Business%20Studies%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "business_studies-memo-af-2018-term1",
+        "subject": "Business Studies",
+        "specialization": "None",
+        "title": "Business Studies Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Business%20Studies%20Memo%201%20(Afrikaans).pdf"
     }
 ]

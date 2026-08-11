@@ -218,5 +218,49 @@
         "year": "2018",
         "term": "Term 2",
         "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20May%20June%20past%20papers/Non-Languages%20May-June%202018/Geography/Geography%20P2%20May-June%202018%20Eng.pdf?ver=2018-07-22-111941-000"
+    },
+    {
+        "id": "geography-qp-en-2018-term1",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Geography Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Geography%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "geography-qp-af-2018-term1",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Geography Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Geography%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "geography-memo-en-2018-term1",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Geography Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Geography%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "geography-memo-af-2018-term1",
+        "subject": "Geography",
+        "specialization": "None",
+        "title": "Geography Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Geography%20Memo%201%20(Afrikaans).pdf"
     }
 ]
