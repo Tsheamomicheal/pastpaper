@@ -185,5 +185,49 @@
         "year": "2019",
         "term": "Term 2",
         "url": "https://www.education.gov.za/Portals/0/CD/Engineering%20Graphics%20%26%20Design%20P2%20May-June%202019%20Eng.pdf"
+    },
+    {
+        "id": "engineering_graphic_and_design-qp-en-2019-term1",
+        "subject": "Engineering Graphic and Design",
+        "specialization": "None",
+        "title": "Engineering Graphic and Design Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/Engineering%20Graphic%20and%20Design%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "engineering_graphic_and_design-qp-af-2019-term1",
+        "subject": "Engineering Graphic and Design",
+        "specialization": "None",
+        "title": "Engineering Graphic and Design Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/Engineering%20Graphic%20and%20Design%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "engineering_graphic_and_design-memo-en-2019-term1",
+        "subject": "Engineering Graphic and Design",
+        "specialization": "None",
+        "title": "Engineering Graphic and Design Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/Engineering%20Graphic%20and%20Design%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "engineering_graphic_and_design-memo-af-2019-term1",
+        "subject": "Engineering Graphic and Design",
+        "specialization": "None",
+        "title": "Engineering Graphic and Design Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/Engineering%20Graphic%20and%20Design%20Memo%201%20(Afrikaans).pdf"
     }
 ]

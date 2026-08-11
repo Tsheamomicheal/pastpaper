@@ -130,5 +130,93 @@
         "year": "2020",
         "term": "Term 4",
         "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20Memo%20PDF/Mechanical%20Technology/Mechanical%20Technology%20Nov%202020%20(Automotive)%20Memo%20Afr.pdf?ver=2021-03-10-134247-000"
+    },
+    {
+        "id": "mechanical_technology-qp-en-2020-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20FebMarch%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "mechanical_technology-qp-af-2020-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20FebMarch%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "mechanical_technology-memo-en-2020-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20FebMarch%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "mechanical_technology-memo-af-2020-term1",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20FebMarch%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Memo%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "mechanical_technology-qp-en-2020-term2",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20MayJune%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "mechanical_technology-qp-af-2020-term2",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20MayJune%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "mechanical_technology-memo-en-2020-term2",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20MayJune%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "mechanical_technology-memo-af-2020-term2",
+        "subject": "Mechanical Technology",
+        "specialization": "Welding and Metalwork",
+        "title": "Mechanical Technology Welding and Metalwork Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20MayJune%20Exam%20Papers/Mechanical%20Technology%20Welding%20and%20Metalwork%20Memo%201%20(Afrikaans).pdf"
     }
 ]

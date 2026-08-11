@@ -251,5 +251,49 @@
         "year": "2019",
         "term": "Term 2",
         "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4qrod-xqfio%3D"
+    },
+    {
+        "id": "history-qp-en-2019-term1",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/History%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "history-qp-af-2019-term1",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/History%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "history-memo-en-2019-term1",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/History%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "history-memo-af-2019-term1",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2019",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2019%20FebMarch%20Exam%20Papers/History%20Memo%201%20(Afrikaans).pdf"
     }
 ]

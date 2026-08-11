@@ -174,5 +174,49 @@
         "year": "2018",
         "term": "Term 2",
         "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=FmCZ0yd7ewg%3D"
+    },
+    {
+        "id": "civil_technology-qp-en-2018-term1",
+        "subject": "Civil Technology",
+        "specialization": "Woodworking",
+        "title": "Civil Technology Woodworking Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Civil%20Technology%20Woodworking%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "civil_technology-qp-af-2018-term1",
+        "subject": "Civil Technology",
+        "specialization": "Woodworking",
+        "title": "Civil Technology Woodworking Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Civil%20Technology%20Woodworking%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "civil_technology-memo-en-2018-term1",
+        "subject": "Civil Technology",
+        "specialization": "Woodworking",
+        "title": "Civil Technology Woodworking Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Civil%20Technology%20Woodworking%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "civil_technology-memo-af-2018-term1",
+        "subject": "Civil Technology",
+        "specialization": "Woodworking",
+        "title": "Civil Technology Woodworking Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2018",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2018%20FebMarch%20Exam%20Papers/Civil%20Technology%20Woodworking%20Memo%201%20(Afrikaans).pdf"
     }
 ]

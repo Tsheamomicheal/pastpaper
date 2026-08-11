@@ -130,5 +130,93 @@
         "year": "2020",
         "term": "Term 4",
         "url": "https://www.education.gov.za/Portals/0/CD/2020%20NSC%20Exam%20papers/Non-Languages%20Nov%202020%20PDF/History/History%20P2%20Nov%202020%20Addendum%20Eng.pdf?ver=2020-12-01-125812-000"
+    },
+    {
+        "id": "history-qp-en-2020-term1",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20FebMarch%20Exam%20Papers/History%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "history-qp-af-2020-term1",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20FebMarch%20Exam%20Papers/History%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "history-memo-en-2020-term1",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20FebMarch%20Exam%20Papers/History%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "history-memo-af-2020-term1",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20FebMarch%20Exam%20Papers/History%20Memo%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "history-qp-en-2020-term2",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20MayJune%20Exam%20Papers/History%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "history-qp-af-2020-term2",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20MayJune%20Exam%20Papers/History%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "history-memo-en-2020-term2",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2020",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20MayJune%20Exam%20Papers/History%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "history-memo-af-2020-term2",
+        "subject": "History",
+        "specialization": "None",
+        "title": "History Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2020",
+        "term": "Term 2",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2020%20MayJune%20Exam%20Papers/History%20Memo%201%20(Afrikaans).pdf"
     }
 ]

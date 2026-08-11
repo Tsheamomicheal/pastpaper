@@ -130,5 +130,49 @@
         "year": "2021",
         "term": "Term 2",
         "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=S7FjUU2IRHo%3D"
+    },
+    {
+        "id": "physical_sciences-qp-en-2021-term1",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Physical Sciences Paper 1 (English)",
+        "type": "QP",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Physical%20Sciences%20Paper%201%20(English).pdf"
+    },
+    {
+        "id": "physical_sciences-qp-af-2021-term1",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Physical Sciences Paper 1 (Afrikaans)",
+        "type": "QP",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Physical%20Sciences%20Paper%201%20(Afrikaans).pdf"
+    },
+    {
+        "id": "physical_sciences-memo-en-2021-term1",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Physical Sciences Memo 1 (English)",
+        "type": "Memo",
+        "language": "English",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Physical%20Sciences%20Memo%201%20(English).pdf"
+    },
+    {
+        "id": "physical_sciences-memo-af-2021-term1",
+        "subject": "Physical Sciences",
+        "specialization": "None",
+        "title": "Physical Sciences Memo 1 (Afrikaans)",
+        "type": "Memo",
+        "language": "Afrikaans",
+        "year": "2021",
+        "term": "Term 1",
+        "url": "https://www.education.gov.za/Portals/0/CD/Computer/2021%20FebMarch%20Exam%20Papers/Physical%20Sciences%20Memo%201%20(Afrikaans).pdf"
     }
 ]
