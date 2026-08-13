@@ -448,13 +448,11 @@ function setupDrawer() {
     if (drawerOverlay) drawerOverlay.addEventListener("click", closeDrawer);
 }
 
-// Helper to handle monetag ad open and paper download simultaneously
+// Helper to handle paper download directly
 window.handleDownload = function(event, downloadUrl) {
     if (event) {
         event.preventDefault();
     }
-    // Open the Monetag ad link in a new tab
-    window.open("https://omg10.com/4/11491460", "_blank");
     // Start the actual paper/study guide download in the current tab/background
     window.location.href = downloadUrl;
 };
